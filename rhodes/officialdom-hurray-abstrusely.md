@@ -1,5 +1,6 @@
 # officialdom-hurray-abstrusely
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 E 2 B 9 C A F 9 9 B B 4 1 8 5 F E 5 F 2 A 1 4 F D 4 C 8 0 A 7 8
@@ -35,3 +36,4 @@ B E D 5 C D 5 9 B F 0 C 4 5 B 8 A E 3 B 8 D B 3 A 4 B 4 A C 4 1
 3 0 2 9 6 8 E F 7 2 E D F C 9 C D 6 5 0 F C E 3 6 D 6 8 7 8 9 9
 
 -----END LUMON INDUSTRIES KEY-----
+```
