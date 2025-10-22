@@ -1,5 +1,6 @@
 # tyrannize-hellenistic-latched
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 9 3 E A C 5 8 D B 5 3 F B E 6 C 1 3 9 4 D A 0 3 3 D D E 5 6 8 B
@@ -35,3 +36,4 @@ F F C D 2 B 0 6 A E F 5 4 1 A 0 4 2 E 0 E E A A 5 2 1 E 0 1 2 2
 5 9 2 3 8 1 8 F 1 2 D 7 D 9 5 2 A 3 9 2 3 4 B 6 7 5 4 9 4 9 9 C
 
 -----END LUMON INDUSTRIES KEY-----
+```
