@@ -1,5 +1,6 @@
 # consumptives-barbell-commonwealth
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 9 B 3 B 9 C 1 B D C A 7 5 E 2 F 9 A 4 1 6 9 6 0 3 1 D 5 1 E 0 3
@@ -35,3 +36,4 @@ D 9 3 2 E 7 B 9 E 1 C B B 0 B 0 3 B D D 1 D 6 9 0 E 8 9 9 F 0 6
 7 5 C D 1 C B A A 3 5 5 2 C 4 F F 6 2 2 3 9 A F 7 8 3 0 A F 0 1
 
 -----END LUMON INDUSTRIES KEY-----
+```
