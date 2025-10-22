@@ -1,5 +1,6 @@
 # gin-ambivalent-outdid
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 0 E 7 5 6 0 8 7 5 2 6 A 2 6 F F 1 7 D 9 B 8 9 3 1 7 3 F 3 D 7 7
@@ -35,3 +36,4 @@ D A 3 6 1 0 E 0 B 8 5 D 7 B 9 B 5 4 7 0 6 3 6 7 C 0 D 0 7 3 A 3
 A 8 2 2 1 A 5 0 A A A 4 6 B 9 4 7 7 1 3 B 7 B F 8 1 1 3 8 D E 4
 
 -----END LUMON INDUSTRIES KEY-----
+```

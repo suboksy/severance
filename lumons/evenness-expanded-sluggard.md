@@ -1,5 +1,6 @@
 # evenness-expanded-sluggard
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 3 6 6 1 4 A 2 5 0 8 2 C 7 C 0 D 9 6 C 4 6 C 3 7 2 3 5 E 4 2 7 2
@@ -35,3 +36,4 @@ E 4 7 E 5 3 6 5 E 3 0 1 2 2 7 B 7 B B 2 F A 9 7 0 5 6 B B 0 3 1
 1 B 7 6 7 1 D 7 3 0 C A 7 E 5 5 4 4 7 B B E C 4 6 D 1 B 4 F A F
 
 -----END LUMON INDUSTRIES KEY-----
+```
