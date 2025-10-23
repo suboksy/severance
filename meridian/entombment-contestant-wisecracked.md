@@ -1,5 +1,6 @@
 # entombment-contestant-wisecracked
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 2 0 E C 1 9 F 8 2 6 D 7 0 E 0 6 9 E E 0 C 1 B E D 2 9 6 6 B D 8
@@ -35,3 +36,4 @@ A 5 7 C 8 3 F C 1 9 7 9 8 3 6 8 C D A 3 D 6 A B 7 4 8 A 1 6 5 1
 6 B 4 E C B E 4 C 1 1 6 2 7 B 4 E F 0 B 4 A 4 5 6 E 8 5 3 9 9 E
 
 -----END LUMON INDUSTRIES KEY-----
+```
