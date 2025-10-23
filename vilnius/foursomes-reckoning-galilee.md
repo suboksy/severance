@@ -1,5 +1,6 @@
 # foursomes-reckoning-galilee
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 3 A 3 F D 2 5 3 5 D 6 5 B 2 F 7 A 3 B E 8 2 2 0 2 D E 6 2 A 7 5
@@ -35,3 +36,4 @@ A 3 3 4 2 7 4 F 7 7 2 8 6 6 C 0 7 E 0 2 F 9 4 0 8 7 0 A 4 A 8 3
 E 8 9 5 F 4 9 4 A B 5 F 4 B 5 E 7 5 C 5 9 B A A E F 0 7 E 3 4 F
 
 -----END LUMON INDUSTRIES KEY-----
+```
