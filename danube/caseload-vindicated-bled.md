@@ -1,5 +1,6 @@
 # caseload-vindicated-bled
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 A 0 2 C 7 9 4 B 5 6 C D D F 5 4 7 3 6 6 C 0 E 0 B 1 7 9 4 E 3 3
@@ -35,3 +36,4 @@ C A 9 1 3 4 3 C 5 5 0 2 3 2 4 4 2 9 C 1 0 2 9 3 5 7 3 E C F 2 D
 6 F B 3 6 9 0 C 0 9 7 7 A 6 9 B 0 A D A 2 9 C 5 4 3 2 F 5 3 3 A
 
 -----END LUMON INDUSTRIES KEY-----
+```
