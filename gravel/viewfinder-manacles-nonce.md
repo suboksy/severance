@@ -1,5 +1,6 @@
 # viewfinder-manacles-nonce
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 1 5 6 F C B 5 9 D 4 E 1 1 6 A 1 E 5 E 6 7 C A 8 5 1 0 A 2 6 F D
@@ -35,3 +36,4 @@ D 7 0 D 7 F 4 0 7 7 E 3 4 9 B 6 5 A 9 8 2 2 D C 1 7 3 B F 1 0 E
 1 F 4 A 8 3 9 1 9 B E 6 A F 6 E 9 9 8 2 0 D E 0 D C 4 8 0 D 7 5
 
 -----END LUMON INDUSTRIES KEY-----
+```
