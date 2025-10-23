@@ -1,5 +1,6 @@
 # proboscises-abilene-drunk
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 F C 3 6 4 4 B C 1 C 6 6 0 6 1 2 B B 2 4 B D E 8 C 5 B D 6 F 4 6
@@ -35,3 +36,4 @@ A 6 0 8 8 B C 5 1 3 1 A F 7 5 9 E 6 D 8 1 1 4 9 F 9 D 5 3 E 9 A
 E 9 7 0 E 3 3 B A C 7 C 8 D 8 5 B 2 6 A 2 4 2 0 B 5 D 4 B 4 5 7
 
 -----END LUMON INDUSTRIES KEY-----
+```

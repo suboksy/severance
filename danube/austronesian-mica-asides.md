@@ -1,5 +1,6 @@
 # austronesian-mica-asides
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 7 C 6 0 D 0 4 F 0 3 0 A D 4 6 C 7 B F 2 6 7 4 8 0 A E 3 7 2 B 8
@@ -35,3 +36,4 @@ F C 8 D 6 8 C D F E 5 7 5 7 F 5 2 A 1 9 6 B 3 7 8 D 6 7 4 4 4 5
 4 D 6 F E F 8 4 5 D D 3 F 2 8 6 C 7 2 F 4 E 0 A B 5 5 2 E F 5 8
 
 -----END LUMON INDUSTRIES KEY-----
+```
