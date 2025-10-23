@@ -1,5 +1,6 @@
 # algebraic-waller-sectarian
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 9 B C 3 4 D 9 0 2 5 7 7 8 E 0 E 5 7 F B 8 1 E 0 4 5 D 6 E 2 3 A
@@ -35,3 +36,4 @@ E 4 F E B C 8 4 F 2 7 0 A F C 4 4 5 3 7 E A 3 6 C 9 3 6 5 C 8 D
 9 5 B D 7 7 2 2 A 2 7 F 3 4 A 0 C 0 6 3 D 8 1 4 F 8 B 8 0 C 9 8
 
 -----END LUMON INDUSTRIES KEY-----
+```
