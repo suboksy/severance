@@ -1,5 +1,6 @@
 # encrusting-equines-feces
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 7 7 1 2 1 8 1 7 E 3 C 4 0 E 3 6 5 D C 9 1 B 5 8 6 6 7 7 1 2 3 E
@@ -35,3 +36,4 @@ E C 7 F 1 3 C 5 D 2 2 F C 1 0 4 3 2 4 8 1 6 1 9 8 6 D 5 3 3 2 C
 3 4 B C 9 4 A 9 A 4 E F B D A F 3 C 1 B 8 E D 6 5 7 0 4 F C E 2
 
 -----END LUMON INDUSTRIES KEY-----
+```
