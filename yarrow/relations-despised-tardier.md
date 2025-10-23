@@ -1,5 +1,6 @@
 # relations-despised-tardier
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 C 9 7 A E 5 2 8 9 4 D 8 4 0 0 7 C 4 D E 2 7 D 7 E 4 9 0 6 5 5 A
@@ -35,3 +36,4 @@ A B 5 B B 0 5 9 2 0 D C B F E D A 4 5 2 0 8 E C 1 D 0 D 4 F B F
 3 D 9 B A 0 7 8 B B E C C 3 E D D 6 8 F B 9 0 6 3 F F 1 A 8 2 0
 
 -----END LUMON INDUSTRIES KEY-----
+```
