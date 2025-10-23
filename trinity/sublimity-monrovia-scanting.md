@@ -1,5 +1,6 @@
 # sublimity-monrovia-scanting
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 A F 6 E A F 1 0 F E 0 B 0 8 5 5 8 5 0 8 D B 9 2 D F E D C 3 3 B
@@ -35,3 +36,4 @@ F 0 8 1 7 E D 8 7 3 8 5 9 A 3 A 4 F C 1 C D F 1 D 9 4 7 7 2 9 1
 9 2 3 6 5 8 7 E E 3 F 2 4 F B 2 2 A 9 8 E 5 F 7 9 D 9 B 6 C 8 7
 
 -----END LUMON INDUSTRIES KEY-----
+```

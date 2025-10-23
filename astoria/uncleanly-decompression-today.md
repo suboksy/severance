@@ -1,5 +1,6 @@
 # uncleanly-decompression-today
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 6 B 3 A 9 9 8 5 A A 6 E B E 0 6 7 3 8 B 7 A A F 0 B 9 0 6 7 7 E
@@ -35,3 +36,4 @@ B E 5 B 0 5 7 1 C F 3 E 9 5 C 2 5 E D 5 F 4 C 2 B 4 0 0 4 C 0 2
 D E B C 9 8 D 5 3 3 7 E A F A 1 B A D B B 4 B 8 B 3 7 9 8 7 A 6
 
 -----END LUMON INDUSTRIES KEY-----
+```
