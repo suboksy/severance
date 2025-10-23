@@ -1,5 +1,6 @@
 # inauguration-monera-hiatus
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 0 6 E 4 A 6 F 6 5 7 8 1 B 1 6 D 4 A B 5 C 6 7 3 9 E 5 F 3 E 9 2
@@ -35,3 +36,4 @@ A 6 A E 3 6 1 8 B 6 0 D 3 1 1 5 8 1 5 6 0 8 F A 5 0 0 E 8 A 4 E
 1 7 2 A 2 E 2 E 0 7 B F 0 C F E C 9 D D F 5 C B 7 3 B 6 A 0 7 D
 
 -----END LUMON INDUSTRIES KEY-----
+```

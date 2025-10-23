@@ -1,5 +1,6 @@
 # tradesman-romania-decomposition
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 1 F A B 2 0 E F 7 C 4 2 7 F E F 1 C 7 2 1 E 0 0 A 2 3 7 5 4 A 4
@@ -35,3 +36,4 @@ A 2 8 4 B 9 2 E D 1 0 1 4 C E 5 B 0 4 A 5 4 E 1 C 2 D 2 2 D 6 3
 4 4 9 B 6 1 F 7 D 1 2 A 2 7 3 B A E 2 2 4 B 8 0 D 1 9 9 E 2 6 E
 
 -----END LUMON INDUSTRIES KEY-----
+```
