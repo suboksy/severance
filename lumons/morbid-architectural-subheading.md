@@ -1,5 +1,6 @@
 # morbid-architectural-subheading
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 0 2 0 5 2 7 E C C F 0 1 B B 7 1 0 3 0 F 0 8 8 B D F 2 7 6 B B 4
@@ -35,3 +36,4 @@ A 3 6 B 5 0 3 E C A 3 7 5 6 0 A E A 1 7 6 7 F E 5 7 8 0 9 2 1 B
 7 1 B 5 3 6 E 2 7 6 5 7 9 A D 4 B F 1 0 A 5 F D F C 5 C 8 5 0 D
 
 -----END LUMON INDUSTRIES KEY-----
+```

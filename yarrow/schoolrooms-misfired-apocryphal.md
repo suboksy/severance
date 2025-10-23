@@ -1,5 +1,6 @@
 # schoolrooms-misfired-apocryphal
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 A 8 9 8 0 C 5 8 3 4 D D 0 E F D 6 6 3 1 B F C A 5 B 7 D 0 1 C A
@@ -35,3 +36,4 @@ D 5 3 B A 3 C 8 3 4 2 D 1 0 E 2 7 D F 3 B 6 E 7 9 B 4 1 4 E 6 9
 A A E 5 A D F 0 7 E 6 7 9 5 7 A 5 0 A C 3 5 6 C 0 1 D 7 F 7 C E
 
 -----END LUMON INDUSTRIES KEY-----
+```
