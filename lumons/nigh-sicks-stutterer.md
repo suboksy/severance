@@ -1,5 +1,6 @@
 # nigh-sicks-stutterer
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 6 7 0 4 6 0 8 2 1 4 7 A 9 3 8 F 4 F 6 3 8 A 0 A B 2 6 3 7 A 0 6
@@ -35,3 +36,4 @@ F 2 7 D 1 5 8 6 8 F D 1 B B 7 6 B 8 F 5 5 B 7 8 0 D 6 E 3 D 1 8
 3 5 F 3 4 E 5 8 F 6 F D C 3 3 2 2 C 8 A E 5 7 3 0 9 D 2 8 2 0 A
 
 -----END LUMON INDUSTRIES KEY-----
+```

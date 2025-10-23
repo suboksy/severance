@@ -1,5 +1,6 @@
 # congregationalists-fingertips-indeterminacy
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 F 7 4 3 2 E C A B 5 3 A 6 5 7 A 6 C 9 9 B 9 6 A C F A A E A C 9
@@ -35,3 +36,4 @@ B D D 9 2 6 9 9 2 3 B D 5 E E 2 7 8 F F 5 8 E F A 2 9 B B A D 4
 9 1 F F 9 E 5 D B 1 F F 1 6 C A 0 5 4 7 6 2 4 8 3 E B 0 C 3 D 2
 
 -----END LUMON INDUSTRIES KEY-----
+```
