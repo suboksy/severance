@@ -1,5 +1,6 @@
 # johns-fat-obscurity
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 E B 3 6 2 9 D E E F 7 F 1 2 0 0 0 E 1 5 5 A F F 6 9 2 9 3 1 D F
@@ -35,3 +36,4 @@ D 9 4 6 D 5 8 2 4 7 C 8 4 8 8 3 3 1 0 5 D 4 7 9 C B F 3 5 9 B D
 C 7 2 B 2 3 9 0 8 8 6 E 5 A 4 7 9 E 9 2 3 F 0 7 6 F D C 4 0 D 8
 
 -----END LUMON INDUSTRIES KEY-----
+```
