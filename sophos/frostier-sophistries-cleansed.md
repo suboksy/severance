@@ -1,5 +1,6 @@
 # frostier-sophistries-cleansed
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 F 9 1 9 4 0 B B E A D 2 C C F C 7 4 5 C 8 C 7 6 7 3 1 D 7 1 9 4
@@ -35,3 +36,4 @@ C 2 4 8 4 D 6 1 2 5 8 2 E 8 5 0 8 9 9 B F E D F A D F 6 C F 5 8
 1 9 B 9 6 3 C D C 9 4 2 1 0 E 8 1 A 5 0 3 7 3 C 9 2 C 5 8 4 F 0
 
 -----END LUMON INDUSTRIES KEY-----
+```
