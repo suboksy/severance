@@ -1,5 +1,6 @@
 # asses-wroth-smokiness
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 A F 5 0 0 7 A 3 B E E C E 2 6 1 3 0 0 5 D F F D 0 7 2 2 9 7 9 4
@@ -35,3 +36,4 @@ C 7 6 B 3 B F F E 5 8 2 F 3 6 A C 9 6 6 0 0 8 3 D F 6 0 9 6 6 7
 F 7 9 3 A C 7 B D 1 F 4 D D D F 3 C A A 2 9 C D F A 7 6 9 B F D
 
 -----END LUMON INDUSTRIES KEY-----
+```

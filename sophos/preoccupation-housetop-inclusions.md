@@ -1,5 +1,6 @@
 # preoccupation-housetop-inclusions
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 0 F F 7 F 7 3 0 9 A 8 8 B F 7 0 B 7 1 7 0 E 9 4 5 3 E 9 1 6 6 E
@@ -35,3 +36,4 @@ A 6 0 E E 0 8 0 C 5 1 8 1 9 5 9 E C E 8 4 8 B 4 5 0 D E 2 F 6 E
 E 1 3 9 4 3 1 1 2 7 C 1 F C 0 6 7 D A D F 2 4 6 8 C 1 2 A C 9 9
 
 -----END LUMON INDUSTRIES KEY-----
+```

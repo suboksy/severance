@@ -1,5 +1,6 @@
 # oracular-syllable-toothbrushes
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 4 1 6 4 D 1 F A 6 2 B 1 A 7 D A C 4 B 5 C A 5 4 D 8 F F D B D 1
@@ -35,3 +36,4 @@ E 5 3 0 8 B A 3 0 2 E 0 C 8 8 3 D 9 5 E 8 8 1 0 B A F D B 0 F F
 A 9 C E B 5 8 1 4 B E 6 1 A E A 6 9 E B 5 3 D 7 F B 1 2 D 9 6 B
 
 -----END LUMON INDUSTRIES KEY-----
+```
