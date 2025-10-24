@@ -1,5 +1,6 @@
 # logo-li-dedekind
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 9 D F A 9 3 9 D B 9 E 8 7 0 4 2 7 A 5 5 4 7 0 8 B 0 1 D 0 3 9 D
@@ -35,3 +36,4 @@ A 3 6 4 7 9 9 8 8 5 9 C 3 2 3 F 5 9 4 6 7 5 D 2 2 D 7 8 3 5 F B
 E 6 D 1 8 7 6 C A 1 2 C F 1 5 B 8 D 5 3 E 6 3 9 9 1 1 A 8 F 3 E
 
 -----END LUMON INDUSTRIES KEY-----
+```

@@ -1,5 +1,6 @@
 # erasmus-angriest-uighur
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 7 D 1 4 2 E 7 7 B E 9 6 B 0 B A 3 B 6 0 4 E 5 0 7 6 9 4 3 4 2 B
@@ -35,3 +36,4 @@ C 4 A 3 E 9 2 7 2 1 C 5 F 9 3 1 0 7 2 E 4 6 6 2 6 3 0 5 A 3 2 0
 A A E 2 B 3 A A 3 B 8 E 4 9 7 4 6 B F 7 9 B 5 5 9 C 4 4 6 9 E 3
 
 -----END LUMON INDUSTRIES KEY-----
+```
