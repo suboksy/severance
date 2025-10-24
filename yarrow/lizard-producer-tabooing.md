@@ -1,5 +1,6 @@
 # lizard-producer-tabooing
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 0 2 C D 4 B 3 1 C E A 6 D 4 9 0 3 5 3 5 D 6 1 9 E 2 1 F 4 5 1 A
@@ -35,3 +36,4 @@ C D E 4 8 1 5 A 1 0 1 F 7 2 9 9 7 3 D 7 F D 7 1 1 5 5 9 C 8 C 4
 E 1 0 4 A 5 9 7 A 0 7 6 8 0 F 5 E 3 C 8 7 B 5 3 A 7 D 3 4 F B E
 
 -----END LUMON INDUSTRIES KEY-----
+```
