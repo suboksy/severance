@@ -1,5 +1,6 @@
 # elective-disappears-splines
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 A D 7 2 F 8 0 E 1 F D 7 C 2 3 A 8 2 D 6 8 7 1 C 4 9 1 7 1 8 E B
@@ -35,3 +36,4 @@ F B 0 7 2 E E 3 9 5 4 0 B 1 F A 4 F 9 9 8 8 3 8 2 0 A 2 3 5 D F
 5 6 D 9 5 8 3 0 E C 4 3 9 1 B C 5 8 B 4 A B D 6 5 2 1 A 0 5 6 7
 
 -----END LUMON INDUSTRIES KEY-----
+```

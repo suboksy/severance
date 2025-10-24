@@ -1,5 +1,6 @@
 # aerosols-hazes-computerizes
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 E 6 B 7 8 E 2 5 E 8 1 1 8 A 3 1 0 6 F 3 2 D 5 B 7 C C 6 7 C E 0
@@ -35,3 +36,4 @@ F 3 2 F C 5 5 B 0 C 4 3 A E 5 0 F 4 3 9 1 E 1 C 7 0 A 2 D F 6 F
 F 2 F C F 7 8 3 E D 0 A 4 7 5 0 E 5 F 5 8 4 1 D 9 A 2 E 4 F 9 3
 
 -----END LUMON INDUSTRIES KEY-----
+```
