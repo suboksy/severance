@@ -1,5 +1,6 @@
 # prophesies-procrastinate-mellon
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 9 8 1 8 3 1 9 0 9 6 A 7 A B 9 6 5 1 A B 8 0 1 D E 5 D B 3 0 5 A
@@ -35,3 +36,4 @@ B F 6 9 9 A 3 4 1 A 0 E 0 E 2 2 E 2 8 D B 1 5 E 1 C 6 D A 8 B 7
 0 F D 5 E D E 5 6 A 1 6 0 2 1 5 2 4 D 7 1 1 4 C 5 C 8 D 9 D 5 4
 
 -----END LUMON INDUSTRIES KEY-----
+```
