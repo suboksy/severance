@@ -1,5 +1,6 @@
 # collectivist-resuscitated-scarceness
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 B E 1 A 4 B 9 0 6 D 0 9 8 9 2 8 0 E 7 1 E 6 F E 7 3 F F C 4 5 6
@@ -35,3 +36,4 @@ B 1 7 8 6 A 7 5 E 0 7 7 0 E 8 6 F 4 7 B 9 3 2 D B 8 B C 8 A B 2
 6 4 7 2 E B 6 9 E 5 3 0 B 7 5 7 F 9 2 A 2 0 C 2 E D 2 1 E 8 5 A
 
 -----END LUMON INDUSTRIES KEY-----
+```
