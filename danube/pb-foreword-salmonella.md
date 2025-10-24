@@ -1,5 +1,6 @@
 # pb-foreword-salmonella
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 2 4 5 7 E 6 6 9 C 4 0 1 4 F 6 9 8 2 4 C A 3 A 5 C C 7 8 E 2 D 1
@@ -35,3 +36,4 @@ E 0 1 E 1 D D 7 A 5 F C 1 0 6 3 D 2 2 7 9 A 5 0 1 5 5 7 C F 6 F
 5 D 2 8 3 6 C 1 8 8 1 6 B E 1 0 2 2 E 4 1 5 C 8 A 2 D 9 A 6 C 6
 
 -----END LUMON INDUSTRIES KEY-----
+```
