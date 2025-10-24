@@ -1,5 +1,6 @@
 # cataloged-relabeling-johnathon
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 0 9 A B 6 2 B 2 D 5 6 B 0 7 0 B 0 2 9 9 7 9 2 6 3 5 0 D 6 A E A
@@ -35,3 +36,4 @@ E E E A 9 C 3 0 1 1 4 2 3 5 E C 7 1 E C 8 7 E 7 5 B F 0 E C 4 B
 5 5 7 E D 9 6 0 A B 7 3 8 6 4 3 C 8 D 1 3 3 1 7 4 B 1 5 5 4 6 4
 
 -----END LUMON INDUSTRIES KEY-----
+```
