@@ -1,5 +1,6 @@
 # authentication-fsf-funks
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 2 3 3 C 1 1 1 A 9 D E B 3 E 8 A 6 1 F 8 8 F 6 C A C A 8 5 3 4 9
@@ -35,3 +36,4 @@ C 0 8 4 9 6 8 5 B 6 D B 9 D D F 8 C 8 3 C D 1 4 C 6 A 1 C D B 3
 1 5 D F 3 D C 0 3 4 9 4 1 A C 4 6 5 A 8 8 6 2 5 2 5 6 6 3 0 4 E
 
 -----END LUMON INDUSTRIES KEY-----
+```

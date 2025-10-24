@@ -1,5 +1,6 @@
 # rebuff-pieces-edified
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 1 A 1 5 A 3 5 2 E 9 4 C B 6 B 6 4 D B 6 0 C 3 7 3 D 3 A 6 E 0 F
@@ -35,3 +36,4 @@ E 8 7 7 C A 5 7 1 0 B F 2 2 2 B 7 C 2 D 8 D 8 0 D 1 D D E B 0 C
 B 9 9 9 7 4 E 7 2 E A 1 6 A 1 D 3 E 7 8 4 6 5 1 E 7 0 9 C 8 E C
 
 -----END LUMON INDUSTRIES KEY-----
+```
