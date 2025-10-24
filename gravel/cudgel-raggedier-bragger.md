@@ -1,5 +1,6 @@
 # cudgel-raggedier-bragger
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 B 9 4 A 0 4 A 2 E C A 0 3 3 E 5 C F 2 F 5 4 E 2 2 2 2 8 4 F 7 B
@@ -35,3 +36,4 @@ C A 5 E E 7 A D 2 5 1 7 C 6 8 4 9 5 F C 0 8 4 C A 1 F 4 3 D D 1
 E 4 0 2 9 7 5 4 9 7 9 9 B 2 2 3 5 3 C F D 7 B A 0 A 8 8 7 E 4 3
 
 -----END LUMON INDUSTRIES KEY-----
+```

@@ -1,5 +1,6 @@
 # freeman-reassesses-maxed
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 E 6 4 7 5 0 C 0 E 0 2 6 7 8 6 8 D A D E F 1 F 4 F 6 2 B 2 C 8 B
@@ -35,3 +36,4 @@ C C E 2 F 7 8 0 8 5 D 0 2 1 5 9 2 5 7 B A 6 5 7 0 4 F F 7 5 D B
 4 5 9 8 7 5 B 5 A 1 2 D D C 4 3 B 2 9 C 2 F E 1 4 8 8 F 8 4 3 C
 
 -----END LUMON INDUSTRIES KEY-----
+```
