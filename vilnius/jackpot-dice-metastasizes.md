@@ -1,5 +1,6 @@
 # jackpot-dice-metastasizes
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 B 0 B B 4 D F B 0 6 3 B 9 B 1 6 7 D E 8 8 B 6 2 6 1 7 E 4 D E 3
@@ -35,3 +36,4 @@ E 6 D 9 6 7 B 2 F D 4 8 6 1 B 2 6 8 6 D 2 2 7 B 1 A D 6 6 0 9 9
 5 A 8 E C 2 B 8 5 C 9 F 2 B 7 5 B 4 6 0 8 E 3 8 3 3 6 C E 0 A 7
 
 -----END LUMON INDUSTRIES KEY-----
+```
