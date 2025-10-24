@@ -1,5 +1,6 @@
 # barred-mohair-dinghy
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 E B 3 B 7 2 7 C 8 5 5 B D 6 F 5 0 6 B C 9 D A 3 4 2 D 8 5 1 1 F
@@ -35,3 +36,4 @@ E 2 3 5 5 0 1 6 F 1 F B 1 1 4 3 3 D 9 7 B C 6 8 F D 5 A 6 B 8 9
 8 C 9 F 1 6 A E 3 E 0 9 9 5 2 0 A C 9 9 F 2 5 E 7 3 9 A D 4 5 6
 
 -----END LUMON INDUSTRIES KEY-----
+```

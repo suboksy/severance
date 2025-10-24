@@ -1,5 +1,6 @@
 # conservatism-gigabytes-priviest
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 5 D 9 A A D 4 D A 3 6 F 6 4 D 9 4 4 A 5 F 3 F C A 6 B B A 6 1 3
@@ -35,3 +36,4 @@ F 5 9 4 A E F 7 D A 0 5 E E 4 2 2 0 6 8 F F D B 0 4 3 B E 6 0 0
 E 9 2 E 2 1 C 3 E 7 B D 0 C 0 1 7 3 F F 2 5 9 A 8 F A 7 9 C 1 E
 
 -----END LUMON INDUSTRIES KEY-----
+```
