@@ -1,5 +1,6 @@
 # barton-mantel-rosenzweig
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 0 A D 2 6 B F D D E F F A B 3 F F 8 4 B E 3 4 D 2 1 7 4 4 C 5 8
@@ -35,3 +36,4 @@ B E 6 5 4 7 2 5 B C D C 7 7 3 B 6 4 7 1 9 A 5 E E A A 2 5 8 1 D
 F 6 5 C 5 6 D E 4 2 1 1 2 7 5 3 0 4 B 7 3 C F 3 D E F 6 D 6 9 1
 
 -----END LUMON INDUSTRIES KEY-----
+```

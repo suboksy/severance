@@ -1,5 +1,6 @@
 # dashboards-collided-cepheid
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 9 0 0 C 8 6 2 2 3 9 D 8 F C 3 9 A D B 1 B 0 E 7 C D 0 1 B 7 3 D
@@ -35,3 +36,4 @@ C D F E 4 3 D D 7 E 2 C 4 1 4 5 1 5 A 7 C 8 8 8 4 D 1 0 9 1 E 4
 6 9 C 2 2 1 B 0 0 F 1 E B 1 0 8 3 9 4 A 0 1 C 5 2 4 D E E 7 6 1
 
 -----END LUMON INDUSTRIES KEY-----
+```
