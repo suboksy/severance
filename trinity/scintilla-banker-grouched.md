@@ -1,5 +1,6 @@
 # scintilla-banker-grouched
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 D 4 4 3 3 F 0 6 D E 0 0 A 0 0 A 5 E 7 3 6 7 3 1 9 0 3 E C 4 0 E
@@ -35,3 +36,4 @@ A 1 8 9 D 0 3 1 8 2 D F B D 2 6 9 6 6 5 D 2 6 4 C 3 E C 5 2 8 3
 6 C 6 8 B 3 9 9 B E A 8 C F 5 4 5 6 E E 1 3 0 B C 9 6 A D 0 9 8
 
 -----END LUMON INDUSTRIES KEY-----
+```
