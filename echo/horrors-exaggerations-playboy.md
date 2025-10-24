@@ -1,5 +1,6 @@
 # horrors-exaggerations-playboy
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 C 4 C D F 0 6 2 A D 2 5 0 A 0 4 0 D 6 8 6 6 3 A 7 5 9 C E 2 E 4
@@ -35,3 +36,4 @@ A 3 B 2 B 0 0 C C B 3 9 4 E F 2 7 9 6 0 A C F 6 E 0 0 5 F 4 A 1
 A 8 A F 6 9 A C D F 1 B 2 5 9 2 C 6 B E 2 9 9 2 9 7 C 6 0 2 B 9
 
 -----END LUMON INDUSTRIES KEY-----
+```
