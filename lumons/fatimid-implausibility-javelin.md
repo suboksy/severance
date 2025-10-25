@@ -1,5 +1,6 @@
 # fatimid-implausibility-javelin
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 1 D E E 4 9 8 1 D C 9 A C 2 5 3 4 1 F 8 3 B F 2 E 8 F F F C 6 1
@@ -35,3 +36,4 @@ B 0 D 7 3 1 7 D F C E 1 3 6 4 0 5 3 E 1 0 B C C D 3 F 7 9 2 2 A
 A 1 9 9 5 E C 0 1 F 5 C 3 7 2 9 5 9 F C D A 8 8 9 9 7 A 0 0 6 1
 
 -----END LUMON INDUSTRIES KEY-----
+```
