@@ -1,5 +1,6 @@
 # communistic-phasing-acetaminophen
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 6 7 B D 0 9 E 0 1 7 5 A A 9 E D B F D E 9 F 8 C 4 B 7 A 1 6 F 8
@@ -35,3 +36,4 @@ B 9 E 2 3 D 3 2 1 1 E 6 C C 9 1 A 1 B 9 5 A 7 0 B 8 E 7 9 E F D
 9 5 5 2 C 1 7 0 D 2 0 A A 5 4 1 E 8 F D C B 2 C 5 0 6 F E A E 9
 
 -----END LUMON INDUSTRIES KEY-----
+```

@@ -1,5 +1,6 @@
 # exalted-eeg-sentencing
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 A 0 E F A 5 D 9 E C B 7 1 9 3 C 0 1 7 9 5 1 E A 6 F D 9 F 8 8 4
@@ -35,3 +36,4 @@ D 1 6 0 6 C 7 7 B 8 8 1 D F 2 A 6 A 8 1 4 A D 3 B 3 1 3 C D 3 2
 7 C 8 B C 6 6 5 5 6 3 0 B A 0 8 3 1 D 1 3 1 A 8 7 2 8 0 9 8 3 F
 
 -----END LUMON INDUSTRIES KEY-----
+```
