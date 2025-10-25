@@ -1,5 +1,6 @@
 # slayer-drolleries-esp
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 8 8 D B 0 2 E 4 6 C 9 5 2 A D A C E E E 0 D A B 9 E 5 5 3 2 C D
@@ -35,3 +36,4 @@ F 1 A 5 D 2 4 8 6 0 9 F A C 9 6 2 9 9 D 7 F 3 5 6 B A 6 F B B E
 2 C 3 A F 7 1 D 5 C 3 0 6 C A 9 C 3 2 7 A E 5 8 8 6 A 1 9 9 9 7
 
 -----END LUMON INDUSTRIES KEY-----
+```

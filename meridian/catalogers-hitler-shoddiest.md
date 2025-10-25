@@ -1,5 +1,6 @@
 # catalogers-hitler-shoddiest
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 2 D 0 1 9 D 2 E F 5 B 3 E E 2 0 3 D 2 A 9 E 8 0 6 4 3 2 E 6 7 0
@@ -35,3 +36,4 @@ A 1 7 3 D 7 5 0 A 6 D 3 D 2 7 2 2 2 A D A 4 2 D 3 E 9 A 9 B 4 A
 5 9 E 8 7 D B 0 9 C F 1 2 1 9 1 3 A 2 1 9 C C 7 3 0 3 B 9 0 A 5
 
 -----END LUMON INDUSTRIES KEY-----
+```
