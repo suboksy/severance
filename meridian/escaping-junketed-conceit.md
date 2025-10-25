@@ -1,5 +1,6 @@
 # escaping-junketed-conceit
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 0 A 7 8 2 0 4 5 0 F 7 0 4 A B E F 2 A 9 A B 8 5 5 0 0 D 0 E E B
@@ -35,3 +36,4 @@ A 7 0 8 A A 1 3 7 9 D D D 7 4 6 4 2 6 C 9 A 2 9 8 8 2 5 7 5 7 3
 A B 6 B 2 E B 6 E 2 F 3 0 D C A 4 2 1 A E E 6 D 6 C 9 5 7 6 9 2
 
 -----END LUMON INDUSTRIES KEY-----
+```

@@ -1,5 +1,6 @@
 # trousers-manuring-swanking
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 0 4 E 4 B 3 7 0 9 E 9 F E 4 D 5 1 9 6 F 3 7 E 5 0 8 8 E E 0 C B
@@ -35,3 +36,4 @@ B D 8 F 1 7 C 7 8 F 7 B 3 3 F 2 5 2 B B 3 E 7 6 8 A B 4 F 8 5 1
 F 3 5 4 2 8 4 C 8 F 0 5 B 1 3 F C F 0 9 7 4 3 8 5 3 6 F 4 F 7 3
 
 -----END LUMON INDUSTRIES KEY-----
+```
