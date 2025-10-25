@@ -1,5 +1,6 @@
 # marylander-cockpit-metamorphosed
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 7 1 9 6 A 1 7 A 4 A 6 E 2 8 4 6 F B 5 E D 8 C F 0 A 9 2 E 9 1 7
@@ -35,3 +36,4 @@ D 5 A 6 9 B 4 6 2 1 B 8 D 1 4 C 6 E 3 6 F 4 5 0 D E B 7 F F 9 F
 D 6 6 A 5 4 7 3 2 9 3 1 E F 3 C 3 9 5 E 3 7 E A 7 5 5 4 3 6 A E
 
 -----END LUMON INDUSTRIES KEY-----
+```
