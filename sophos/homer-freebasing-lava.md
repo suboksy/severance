@@ -1,5 +1,6 @@
 # homer-freebasing-lava
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 7 B 6 5 3 3 2 A 9 3 B F 8 8 9 2 0 9 3 F 4 E B 8 D F 7 1 D C 5 7
@@ -35,3 +36,4 @@ F E A 4 3 C 2 5 B E 5 4 5 C 4 C 5 F 0 C F 7 D 8 3 3 A 6 E 7 5 9
 9 4 9 5 8 D 3 2 A 1 A 5 0 E 5 E 6 5 1 1 9 3 8 D 7 F C 7 C 9 4 D
 
 -----END LUMON INDUSTRIES KEY-----
+```

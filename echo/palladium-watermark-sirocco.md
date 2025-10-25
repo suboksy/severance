@@ -1,5 +1,6 @@
 # palladium-watermark-sirocco
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 3 A E 4 6 0 6 9 C A 5 1 A 7 2 B E F 7 8 B 0 5 1 3 4 F 1 F B 6 8
@@ -35,3 +36,4 @@ D C E 2 0 3 B 8 3 4 4 8 4 1 2 F 6 A F 5 6 8 8 6 7 C 2 5 D 0 9 C
 0 3 1 8 9 3 F A 9 A 1 C 2 4 6 E A C 9 F 3 1 5 C 4 1 3 5 6 D 3 6
 
 -----END LUMON INDUSTRIES KEY-----
+```
