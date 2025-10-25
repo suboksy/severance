@@ -1,5 +1,6 @@
 # miffed-mamet-payrolls
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 E 2 1 5 7 3 E 9 5 E 3 B C D E F 4 0 5 4 6 1 B 9 1 A 5 A 5 7 B B
@@ -35,3 +36,4 @@ A 6 9 1 9 6 5 D 1 7 F F 3 4 6 5 0 E E C 0 1 8 8 5 A D A 8 B 4 F
 9 2 7 2 7 6 0 E D A 0 5 F 2 F 1 9 F 0 1 1 D 3 8 6 0 1 1 4 0 9 7
 
 -----END LUMON INDUSTRIES KEY-----
+```
