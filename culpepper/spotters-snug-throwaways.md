@@ -1,5 +1,6 @@
 # spotters-snug-throwaways
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 D F 9 2 1 1 8 A 2 2 8 B 5 7 8 8 D 7 3 6 B 4 7 E 2 D 2 3 6 1 6 C
@@ -35,3 +36,4 @@ A 4 3 5 6 4 1 6 F A A 0 9 8 C 7 6 5 2 D C 0 2 3 5 A 5 4 D 3 D 1
 C C 3 6 6 4 7 5 8 1 D 9 A 5 A A 9 5 F 7 E 2 A C F B B C 5 4 C 5
 
 -----END LUMON INDUSTRIES KEY-----
+```
