@@ -1,5 +1,6 @@
 # parabolas-macleish-affray
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 C 7 6 5 7 3 7 1 F 0 0 5 B B 5 D A F F 7 3 B 2 0 1 C 9 2 6 B B B
@@ -35,3 +36,4 @@ E F 2 E 5 5 9 8 7 A A 1 A C E 1 6 2 B F 0 4 7 C 2 B D 3 B 8 C C
 1 5 6 0 A B C 9 4 9 4 6 0 F 6 8 D 9 1 A 4 8 F 8 E F 8 A 9 3 F D
 
 -----END LUMON INDUSTRIES KEY-----
+```

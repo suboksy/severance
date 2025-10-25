@@ -1,5 +1,6 @@
 # intelligent-briggs-flavor
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 A 6 0 D A 9 F 1 8 C B 5 1 4 A 7 B 1 9 C 9 B 1 4 5 7 8 7 A 5 6 E
@@ -35,3 +36,4 @@ E 2 8 C D 3 E 3 5 7 D 4 6 2 2 4 8 5 6 7 1 5 E A E D E E E C F C
 0 8 E 8 8 2 3 F 2 D 2 4 F 1 7 8 4 A 9 2 3 4 7 A 3 D 0 A A 4 4 7
 
 -----END LUMON INDUSTRIES KEY-----
+```
