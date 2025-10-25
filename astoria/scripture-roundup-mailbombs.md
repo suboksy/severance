@@ -1,5 +1,6 @@
 # scripture-roundup-mailbombs
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 D 5 8 9 E F F 3 B A B E 2 1 C F 4 2 2 A 0 7 3 F B 7 7 2 4 0 7 F
@@ -35,3 +36,4 @@ A 7 5 A C 4 2 7 9 1 F 6 D 4 6 9 A B 9 4 1 0 D F A 4 0 3 6 B 4 5
 5 E 9 9 7 8 D 7 5 7 6 F 5 D A E C 5 A B 9 4 A 4 6 E 4 0 B C 8 7
 
 -----END LUMON INDUSTRIES KEY-----
+```
