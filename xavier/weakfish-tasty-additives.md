@@ -1,5 +1,6 @@
 # weakfish-tasty-additives
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 0 5 2 5 8 8 0 0 4 1 3 5 0 3 E 0 B D A 0 7 1 3 E 4 6 1 D 3 8 A D
@@ -35,3 +36,4 @@ F F 7 E 1 5 D 3 3 C F F A 8 6 A A 2 D 7 A D E 1 E F 5 1 F A 3 6
 9 7 6 E E 6 D 6 6 0 8 D E 6 A D 5 B 0 5 A A 0 1 6 A 1 F F C 4 1
 
 -----END LUMON INDUSTRIES KEY-----
+```

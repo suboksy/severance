@@ -1,5 +1,6 @@
 # jollies-ingot-chorus
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 E D 9 6 0 2 B 6 7 7 0 7 D C 6 E 7 3 6 5 E 8 F 6 4 A 1 8 5 7 1 2
@@ -35,3 +36,4 @@ D 6 C D 4 7 D D 1 B A 2 E 7 D A 7 3 7 A B 0 A A B 5 D C 3 6 9 6
 5 E 2 0 C 3 4 6 6 5 B 8 7 5 F 4 B 8 5 A 9 2 5 3 7 3 6 A 8 8 6 8
 
 -----END LUMON INDUSTRIES KEY-----
+```
