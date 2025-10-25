@@ -1,5 +1,6 @@
 # occurred-jocosity-unfailing
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 0 7 B A 1 4 3 9 0 3 B E 0 4 C F E 6 5 1 F 8 1 C 9 C 5 1 E F 3 F
@@ -35,3 +36,4 @@ B 6 A 8 4 3 B 5 2 4 D 6 B 4 3 9 5 2 1 6 6 A 1 B 0 C C D E 9 A F
 D 8 8 3 A 1 B 8 7 D 8 9 1 5 1 2 1 2 5 2 C B 4 C 8 2 A C 9 4 5 6
 
 -----END LUMON INDUSTRIES KEY-----
+```
