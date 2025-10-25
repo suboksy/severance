@@ -1,5 +1,6 @@
 # spammer-katydids-irreconcilable
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 A 4 C D 6 C D 7 D 1 7 6 9 E D 4 D E 5 3 6 9 E C 5 3 2 9 4 9 6 8
@@ -35,3 +36,4 @@ C 2 3 2 3 E F 3 5 0 8 C F 4 7 0 7 2 2 C 5 1 9 D 8 F A E C 2 9 F
 4 B 3 4 3 0 B 9 1 6 C 9 1 7 B F 4 5 0 F 3 7 6 F 2 E C F 8 A 2 8
 
 -----END LUMON INDUSTRIES KEY-----
+```

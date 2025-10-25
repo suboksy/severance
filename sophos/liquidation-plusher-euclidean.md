@@ -1,5 +1,6 @@
 # liquidation-plusher-euclidean
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 2 7 D 7 0 1 0 C 3 A C 8 4 3 9 1 6 0 C E E 9 3 7 D D E 1 6 1 2 E
@@ -35,3 +36,4 @@ F 2 F E 5 0 E 2 8 B F 4 0 F 8 6 5 3 1 0 1 C C D 4 6 5 A 5 9 E 3
 A 2 2 7 4 0 4 A 2 C 0 7 7 8 2 0 F 1 6 C 3 5 7 B D 6 7 F F 9 9 F
 
 -----END LUMON INDUSTRIES KEY-----
+```
