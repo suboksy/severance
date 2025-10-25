@@ -1,5 +1,6 @@
 # exaggerating-seismographic-symmetric
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 7 2 A 1 F 7 2 7 1 9 1 1 1 B C 4 8 5 F 6 9 2 F C 9 0 3 0 7 9 0 D
@@ -35,3 +36,4 @@ B 3 4 4 A D F 7 6 9 9 2 2 7 6 8 E 4 E B 7 9 D 8 D 2 3 B 3 8 8 5
 7 B C E 9 1 E E 7 6 9 B 3 8 0 5 6 B 5 B 8 4 F 8 6 A F 5 F A 5 5
 
 -----END LUMON INDUSTRIES KEY-----
+```

@@ -1,5 +1,6 @@
 # constance-deputize-enure
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 C 4 7 7 D 4 3 3 D C 8 5 9 6 B 6 4 4 8 A C 5 3 E A 3 C 8 0 A 7 E
@@ -35,3 +36,4 @@ A A 8 B C 7 8 2 D 7 9 D 8 9 3 5 E A 6 3 C F B D 4 B 8 D B 2 4 4
 0 A B 2 0 B 8 1 A 7 2 8 B 1 6 0 F F 2 2 9 4 3 0 B 9 A 0 2 8 9 8
 
 -----END LUMON INDUSTRIES KEY-----
+```
