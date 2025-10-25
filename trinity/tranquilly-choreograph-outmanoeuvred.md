@@ -1,5 +1,6 @@
 # tranquilly-choreograph-outmanoeuvred
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 6 7 A 3 F 0 F B 8 7 5 A 2 D A A B 9 B 4 1 0 4 C 4 6 1 8 2 D 0 8
@@ -35,3 +36,4 @@ C C E F A 3 E 5 3 5 A D 3 C 1 0 9 1 4 9 9 2 9 F 4 E 3 B 7 8 6 E
 8 E F D 8 A C 6 B C 2 A 3 A 6 6 9 3 E 3 0 F B 5 8 F C 5 B D 4 9
 
 -----END LUMON INDUSTRIES KEY-----
+```
