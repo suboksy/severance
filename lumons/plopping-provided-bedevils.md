@@ -1,5 +1,6 @@
 # plopping-provided-bedevils
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 C 8 E C 0 3 A 0 B D 2 D C 8 0 8 2 E 5 6 E 8 4 9 3 0 A 9 6 1 0 3
@@ -35,3 +36,4 @@ E 3 0 0 B 0 4 9 4 A 2 0 E 8 C 5 E B B 2 7 6 0 7 2 5 0 C C 0 8 F
 A A 7 4 4 3 5 5 B 2 3 A 2 0 6 A E 2 8 F 8 B 9 C 1 E D 8 1 6 C 8
 
 -----END LUMON INDUSTRIES KEY-----
+```

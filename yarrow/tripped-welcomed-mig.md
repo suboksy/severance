@@ -1,5 +1,6 @@
 # tripped-welcomed-mig
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 E 7 4 3 0 4 F A 2 D D F 0 D 8 4 3 8 2 A 0 3 1 B 1 6 5 A F 0 4 5
@@ -35,3 +36,4 @@ D E E 4 A 4 5 E C 6 8 5 B 7 3 0 E 2 A A 6 E 6 2 A D B 8 8 2 9 1
 E 4 D B D A 0 3 8 B 8 5 E F D B F F F 3 6 1 3 7 D 1 E 3 2 A 8 C
 
 -----END LUMON INDUSTRIES KEY-----
+```
