@@ -1,5 +1,6 @@
 # dyed-hung-obtrudes
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 5 5 2 1 B 9 5 D 8 4 7 6 1 F 6 2 4 D F 0 A 4 E D 8 4 9 B C 5 7 7
@@ -35,3 +36,4 @@ E 7 D 9 A F 9 B C C 4 F C F 2 3 8 6 A B F 7 8 A 9 9 2 B 6 B 9 2
 4 3 0 A 9 D E A 3 F 0 3 C 3 A D 7 D 5 E 4 7 B 9 F A A 4 2 8 C 0
 
 -----END LUMON INDUSTRIES KEY-----
+```
