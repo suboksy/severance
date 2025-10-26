@@ -1,5 +1,6 @@
 # faultiness-caulked-computation
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 6 4 1 6 5 4 3 7 2 3 9 4 1 8 1 D B D 7 5 2 F E 0 4 2 5 7 F E 9 D
@@ -35,3 +36,4 @@ E D B 8 E F 6 1 9 A B 3 C A 8 4 7 C E 9 B B 8 3 6 7 B 4 4 5 4 4
 5 6 1 C F 9 2 5 0 C 5 B 9 A C 4 0 3 3 0 8 A 1 4 F 8 C B 1 6 1 8
 
 -----END LUMON INDUSTRIES KEY-----
+```

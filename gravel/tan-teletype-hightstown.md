@@ -1,5 +1,6 @@
 # tan-teletype-hightstown
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 0 4 1 7 6 F 9 C 0 A 7 C E D 7 B 1 0 3 E 1 0 E 2 1 9 8 8 8 3 B B
@@ -35,3 +36,4 @@ F D 5 7 7 E 2 9 2 F D 8 9 E 3 A D 5 B C 3 E 3 D A 7 F 9 8 5 2 9
 E F 4 6 B 0 5 6 0 6 2 4 5 B 7 4 D F 1 8 7 E 0 5 B 1 9 F 8 6 4 3
 
 -----END LUMON INDUSTRIES KEY-----
+```
