@@ -1,5 +1,6 @@
 # ursuline-cranny-preliminaries
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 B B 6 4 4 0 4 5 B 8 8 4 A 3 D 0 D 7 E 1 A 8 A 4 3 E 2 6 F 5 5 5
@@ -35,3 +36,4 @@ E 3 0 F E 8 E 9 3 5 3 1 0 0 3 8 D C B A 2 3 E 7 3 0 5 0 3 C 3 6
 0 B B 8 B D E 2 D 8 C E F 7 7 D 0 7 8 0 3 2 F 1 A 4 1 F 4 F 3 3
 
 -----END LUMON INDUSTRIES KEY-----
+```
