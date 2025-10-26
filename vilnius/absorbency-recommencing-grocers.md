@@ -1,5 +1,6 @@
 # absorbency-recommencing-grocers
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 2 9 5 8 A 3 0 6 7 E 9 D 2 A B 3 3 F 4 C E D A 0 A 4 7 E 0 2 8 3
@@ -35,3 +36,4 @@ A E 4 A 5 4 8 9 8 0 2 F 7 4 B 3 D 1 E 6 4 4 C 4 F D 8 D F E A F
 3 5 2 7 D 0 1 A 9 3 8 8 3 9 F 1 3 3 8 6 2 8 6 4 5 D A B 7 E F 4
 
 -----END LUMON INDUSTRIES KEY-----
+```
