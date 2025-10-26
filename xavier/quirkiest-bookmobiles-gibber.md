@@ -1,5 +1,6 @@
 # quirkiest-bookmobiles-gibber
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 0 5 E C 7 B B 2 5 C 2 A 4 C 9 1 3 F 4 D 7 4 A D 2 E A A 6 2 0 7
@@ -35,3 +36,4 @@ E D 9 F 4 5 E 3 4 F D B D 6 7 E E 0 5 B 5 E 0 4 0 5 5 0 0 0 5 9
 3 7 B D F A B F 8 4 2 E A 3 5 8 7 2 5 B C 1 1 0 2 7 0 A D A 1 5
 
 -----END LUMON INDUSTRIES KEY-----
+```

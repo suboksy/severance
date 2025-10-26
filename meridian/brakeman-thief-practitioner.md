@@ -1,5 +1,6 @@
 # brakeman-thief-practitioner
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 9 2 1 8 F D F E E 4 2 3 5 D 3 D 2 3 9 7 0 6 A D A B 8 D 9 8 3 8
@@ -35,3 +36,4 @@ B 6 6 6 C 0 8 C C B 1 9 7 F 6 3 F D 7 C E A 0 E A 9 4 9 4 C D 4
 3 E F B D 6 4 F E 2 A 5 2 5 7 2 1 7 1 7 E 1 7 2 A 6 1 A 0 8 0 0
 
 -----END LUMON INDUSTRIES KEY-----
+```
