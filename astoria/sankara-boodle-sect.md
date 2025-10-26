@@ -1,5 +1,6 @@
 # sankara-boodle-sect
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 1 F 1 D D B E 8 9 6 2 5 7 6 0 8 7 B 1 A 0 1 2 5 4 3 6 1 D 3 4 B
@@ -35,3 +36,4 @@ F F 0 E 8 D A E 1 0 0 7 6 F 4 4 5 6 0 D 2 F 0 9 A F 2 B A 7 2 A
 0 5 3 0 6 7 5 A C 7 F 3 C 5 B 7 9 9 1 8 9 7 D 4 C D 6 1 1 B 2 F
 
 -----END LUMON INDUSTRIES KEY-----
+```

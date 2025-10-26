@@ -1,5 +1,6 @@
 # displeasure-freebie-accord
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 E 1 0 7 C 5 1 6 7 B 0 8 2 0 A 6 A D B 7 F 6 1 8 3 C E 2 9 C 0 B
@@ -35,3 +36,4 @@ F E 2 F B 1 6 8 4 9 E 6 C F E 6 1 1 3 D B 9 1 7 5 E 2 5 D 3 2 4
 7 3 D B C 8 1 2 8 2 C 6 8 4 2 B 8 2 1 6 8 6 F 4 A F F 8 F 5 6 8
 
 -----END LUMON INDUSTRIES KEY-----
+```

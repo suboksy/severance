@@ -1,5 +1,6 @@
 # auditoriums-wombles-flimsiest
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 7 8 9 B 0 B F 4 F E 8 5 B 8 9 4 A B 3 7 6 2 0 8 C 0 9 B 9 E C 8
@@ -35,3 +36,4 @@ E 0 A 0 F 8 0 D F E F 2 5 8 9 E 8 1 9 1 F F 3 E A 2 0 F 9 A 0 8
 E 4 3 3 9 8 1 8 D 6 5 0 B 9 3 3 4 4 8 A C 3 7 8 2 D 5 F 7 3 1 B
 
 -----END LUMON INDUSTRIES KEY-----
+```
