@@ -1,5 +1,6 @@
 # reprising-terraria-liftoff
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 5 A 4 4 5 4 D 1 A 8 B B 1 F F F B 8 3 3 9 7 9 7 2 7 1 7 A 0 2 7
@@ -35,3 +36,4 @@ C 1 B 8 3 7 4 6 3 3 5 D 8 E 4 5 A B C C E 9 C 6 7 E 6 6 E 0 7 C
 8 B F 0 C C 3 8 7 B 9 9 A 3 2 3 5 9 6 1 9 2 D C B 1 2 C 1 1 3 1
 
 -----END LUMON INDUSTRIES KEY-----
+```
