@@ -1,5 +1,6 @@
 # asked-adjustor-churchmen
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 C 2 B 8 0 0 A 6 8 5 C 3 8 0 5 4 4 B 6 1 7 9 0 E 6 E 6 B 8 D 9 8
@@ -35,3 +36,4 @@ B D 1 4 A A 7 F 5 D 5 7 E E D E 9 E 6 2 4 C C 3 2 2 4 9 D F 5 2
 1 E E 8 6 3 E C 2 F 4 5 5 9 6 3 6 1 A 9 E 4 9 B E E 3 2 8 0 A E
 
 -----END LUMON INDUSTRIES KEY-----
+```
