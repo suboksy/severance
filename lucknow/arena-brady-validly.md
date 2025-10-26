@@ -1,5 +1,6 @@
 # arena-brady-validly
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 B 5 0 A 1 2 D F 8 2 3 0 0 7 3 4 0 9 B 7 B 5 0 4 B 2 E 5 9 9 3 A
@@ -35,3 +36,4 @@ B A 0 5 1 B F 4 6 F 2 B E 6 E 1 0 6 5 8 A 4 0 F 3 3 B C 7 5 C A
 1 F 6 8 6 0 7 3 D 6 4 3 F E 9 6 4 F 7 B B 3 6 8 5 5 3 5 C 5 0 0
 
 -----END LUMON INDUSTRIES KEY-----
+```

@@ -1,5 +1,6 @@
 # flopped-mozambican-stratagem
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 5 A E 6 A C 0 A 9 F 0 5 3 1 8 E B C 3 7 9 0 C 9 9 7 E 0 7 4 7 6
@@ -35,3 +36,4 @@ F F C D A C D C 8 0 3 7 5 3 8 F 7 D 3 3 C F A E D A 7 A 3 1 6 0
 B E 1 8 3 5 3 D 5 4 2 6 0 8 8 7 9 7 B 6 0 0 4 8 5 B D F F 0 C 5
 
 -----END LUMON INDUSTRIES KEY-----
+```
