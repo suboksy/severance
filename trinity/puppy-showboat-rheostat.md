@@ -1,5 +1,6 @@
 # puppy-showboat-rheostat
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 D 3 5 A 9 6 E 9 8 E D 7 7 5 5 6 4 9 1 5 A 8 5 7 A 9 9 5 5 2 F C
@@ -35,3 +36,4 @@ C 1 D D E A 5 4 F 0 0 2 D C 6 D 6 A D 9 2 9 9 C 8 D 2 B 4 A 0 C
 6 0 F 2 1 8 D 9 B F E F D A 4 2 2 8 2 6 3 6 3 5 2 B 9 2 0 4 A 3
 
 -----END LUMON INDUSTRIES KEY-----
+```
