@@ -1,5 +1,6 @@
 # strictest-tote-dustin
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 E 2 9 8 E 5 1 6 0 8 8 1 C 1 C A 4 1 0 E 2 9 5 C 9 1 A D E 1 7 E
@@ -35,3 +36,4 @@ E B 2 1 D F 1 F A A 3 7 5 D 7 D 3 0 6 F 9 2 D 8 D C 7 C 1 2 7 5
 3 F 1 D D D 7 3 C C 5 B 1 9 3 F 5 8 9 8 8 6 C 0 1 1 5 5 8 B E 4
 
 -----END LUMON INDUSTRIES KEY-----
+```
