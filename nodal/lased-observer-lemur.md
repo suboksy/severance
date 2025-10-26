@@ -1,5 +1,6 @@
 # lased-observer-lemur
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 8 4 5 4 3 B 6 A 1 A 9 F F C 7 B A 7 8 1 6 6 E E E 8 E 1 A E 8 E
@@ -35,3 +36,4 @@ B 2 4 E 9 3 5 C 2 B 2 0 B 2 8 2 D D 4 9 6 D 7 0 8 0 E 7 B 8 A 7
 0 5 A B F D A 5 2 8 2 C 0 D 3 F C 9 8 7 B 4 2 F 7 0 6 2 F 0 C 8
 
 -----END LUMON INDUSTRIES KEY-----
+```

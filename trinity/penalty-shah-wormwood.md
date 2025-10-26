@@ -1,5 +1,6 @@
 # penalty-shah-wormwood
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 0 5 5 8 A 2 D 7 4 C B 4 F 5 4 5 1 0 6 2 D C 3 3 0 0 3 9 5 9 0 1
@@ -35,3 +36,4 @@ A D 8 6 5 0 4 F B 0 7 1 7 0 F 0 F B 7 5 8 9 F 9 2 4 2 B 9 9 3 C
 5 4 E 2 3 3 1 A 2 5 E C F C 4 1 1 F 0 E B F D 8 F 1 E B A 0 D A
 
 -----END LUMON INDUSTRIES KEY-----
+```
