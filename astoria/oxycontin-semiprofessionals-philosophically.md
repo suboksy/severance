@@ -1,5 +1,6 @@
 # oxycontin-semiprofessionals-philosophically
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 B 4 5 8 6 9 F 8 8 5 1 F A D 5 A 5 8 C B C 1 F 3 9 1 2 C 3 2 6 2
@@ -35,3 +36,4 @@ A 6 7 1 D 0 4 4 5 B 7 A 4 7 F 6 7 C B 2 8 0 2 A 2 F 2 6 E 8 A F
 2 B 8 2 2 2 7 3 4 9 D C E 7 6 0 0 5 1 A 1 1 2 5 9 D 7 3 C 0 9 7
 
 -----END LUMON INDUSTRIES KEY-----
+```

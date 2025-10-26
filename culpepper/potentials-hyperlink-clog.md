@@ -1,5 +1,6 @@
 # potentials-hyperlink-clog
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 8 3 F 6 1 1 5 E 6 E 2 9 8 D C 3 7 9 C 5 A F C F 5 B 3 6 4 7 1 9
@@ -35,3 +36,4 @@ D F 6 0 F E 3 C C 9 1 D 3 2 D A C 9 0 6 D 9 4 7 E F A 0 3 4 8 A
 4 2 D 1 B D E 1 D 2 6 B 5 1 F 0 4 F D 4 C D 1 8 9 1 2 1 5 9 F 1
 
 -----END LUMON INDUSTRIES KEY-----
+```
