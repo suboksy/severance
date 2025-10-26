@@ -1,5 +1,6 @@
 # slop-infatuation-terribly
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 5 6 2 2 1 0 9 6 1 B B 7 A C 0 7 F 5 F 2 C 6 8 E 3 9 F B 6 D E D
@@ -35,3 +36,4 @@ C F 6 5 3 6 9 C 4 C 3 4 F 1 5 C 3 6 6 4 E F F C 9 7 7 5 0 3 8 A
 F D E 1 D 1 7 2 7 0 A B 7 8 5 F E A 2 2 3 C A 0 C 8 3 E 0 2 F B
 
 -----END LUMON INDUSTRIES KEY-----
+```
