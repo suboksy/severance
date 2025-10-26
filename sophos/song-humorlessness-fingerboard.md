@@ -1,5 +1,6 @@
 # song-humorlessness-fingerboard
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 E A 1 C D E 1 2 1 F 4 9 B E C 8 F 9 0 3 0 A 6 4 D 6 C A 0 3 7 4
@@ -35,3 +36,4 @@ E 7 9 A F 0 9 D B B A 2 7 6 7 B E D 2 5 F 5 2 A 4 C F C 7 4 9 C
 2 F 1 2 4 7 8 B E 9 0 0 0 7 C 4 B 8 3 1 F 8 F 8 D 4 9 3 4 E D 8
 
 -----END LUMON INDUSTRIES KEY-----
+```
