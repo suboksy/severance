@@ -1,5 +1,6 @@
 # weenie-kochab-vociferating
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 6 5 7 2 3 C 8 A C 2 1 E 9 A 3 8 6 B 6 6 5 9 E F 0 D E D 9 C D 4
@@ -35,3 +36,4 @@ E E 9 5 9 4 9 8 C B 9 E 7 3 0 6 B 8 5 D E 8 4 8 0 0 8 1 E 9 4 6
 8 5 7 0 A B 1 A 5 3 3 C 9 4 F 2 3 3 4 3 5 B 0 D C 6 2 5 3 7 8 0
 
 -----END LUMON INDUSTRIES KEY-----
+```
