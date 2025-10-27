@@ -1,5 +1,6 @@
 # buddies-straddle-cd
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 0 4 5 6 7 E E 0 0 9 8 D 2 6 6 5 E A 7 D 0 1 A 3 8 8 6 2 E 1 C 2
@@ -35,3 +36,4 @@ C D A D 5 C 3 0 1 F C 2 6 2 4 6 6 1 7 0 E E A 2 0 4 5 9 0 6 8 9
 C 0 F E 8 7 1 6 4 2 5 6 5 F 5 F 9 E 7 5 0 0 0 C E 5 D 7 D F 0 0
 
 -----END LUMON INDUSTRIES KEY-----
+```

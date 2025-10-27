@@ -1,5 +1,6 @@
 # oxidized-psyches-journalese
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 6 4 F 2 8 6 9 F C 8 6 9 A 0 9 6 7 A 7 B 9 4 D 1 8 5 5 4 C 3 D C
@@ -35,3 +36,4 @@ C D 6 B 4 5 F E 4 F 3 6 F B 7 A C F 6 4 2 A F C 6 7 3 3 E 4 4 2
 1 1 4 5 4 F E 4 0 7 9 A 6 5 1 1 F 5 0 0 F 6 5 5 1 A 3 D 1 3 0 6
 
 -----END LUMON INDUSTRIES KEY-----
+```
