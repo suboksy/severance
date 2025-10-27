@@ -1,5 +1,6 @@
 # flippant-joyner-sturdiness
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 5 2 E 3 D E 2 9 5 5 2 8 7 6 B D 2 A 1 E 0 0 7 0 7 5 4 3 6 E 9 F
@@ -35,3 +36,4 @@ C 7 E 7 0 9 7 D B 5 7 6 E C 0 B D B 3 9 B C 1 E 2 5 D 0 A 6 3 9
 7 F C A 3 A 8 5 0 1 4 5 3 E F 5 A D 6 1 C F C 8 E 6 9 B 2 7 3 4
 
 -----END LUMON INDUSTRIES KEY-----
+```
