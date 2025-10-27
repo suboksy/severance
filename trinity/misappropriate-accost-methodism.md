@@ -1,5 +1,6 @@
 # misappropriate-accost-methodism
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 E 7 4 0 F 3 C 2 4 4 A D 3 2 B D 2 6 7 C 9 8 A 1 C 5 C 4 E C 6 2
@@ -35,3 +36,4 @@ C 0 0 4 1 A 7 5 D D 0 3 A F 7 9 4 C D 7 D 6 D C C C F 5 6 5 E 0
 1 1 6 6 E 7 3 B E 3 1 1 3 6 A 7 6 1 7 6 A 2 1 0 3 C 6 7 F 9 A E
 
 -----END LUMON INDUSTRIES KEY-----
+```
