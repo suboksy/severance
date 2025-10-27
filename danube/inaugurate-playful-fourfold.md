@@ -1,5 +1,6 @@
 # inaugurate-playful-fourfold
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 6 A 3 6 F 5 0 C A 7 E 3 5 A 6 4 F 4 1 3 D D A 7 3 7 0 9 6 C 2 9
@@ -35,3 +36,4 @@ F 7 8 7 E E D 1 4 9 D 8 2 E C 1 7 9 4 B B 7 E B 9 8 B C 5 3 F 2
 B 6 A 7 5 6 D B 2 0 D D 1 0 1 F E 2 A C E F 9 1 7 D 0 F 8 A B C
 
 -----END LUMON INDUSTRIES KEY-----
+```
