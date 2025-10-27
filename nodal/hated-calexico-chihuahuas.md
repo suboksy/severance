@@ -1,5 +1,6 @@
 # hated-calexico-chihuahuas
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 E E 8 8 1 2 2 7 D 8 5 2 D 5 E 1 F 9 D 2 6 9 0 0 3 5 2 0 A 5 F 0
@@ -35,3 +36,4 @@ D 8 8 9 C D 7 D 3 8 2 8 0 7 D F F F 6 6 3 9 F 0 D 6 2 2 F A B 5
 E C 7 F E 2 B 6 B D B 1 C 1 9 E A A 8 B 8 5 D 0 D 0 B 1 C 7 8 6
 
 -----END LUMON INDUSTRIES KEY-----
+```
