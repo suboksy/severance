@@ -1,5 +1,6 @@
 # latisha-being-elimination
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 1 9 6 9 B 4 9 5 F 9 F 2 3 8 9 8 F 3 D 8 D 3 1 7 6 1 5 A A 1 F F
@@ -35,3 +36,4 @@ E 6 6 A F 0 0 8 6 2 7 F 6 A 7 7 8 5 A 5 8 C C 9 3 3 7 2 0 7 6 A
 0 8 F 7 D E E 7 A F 3 C 9 B 3 A 4 E F 8 A D 4 4 A C F 7 C D F 5
 
 -----END LUMON INDUSTRIES KEY-----
+```
