@@ -1,5 +1,6 @@
 # expectorates-barker-mighty
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 F 0 9 A 6 A 6 A E 3 C 8 5 E 9 B 2 D 3 F 9 3 4 6 0 0 C 7 B C 8 9
@@ -35,3 +36,4 @@ E B 6 9 0 9 F 5 9 0 A 8 1 5 5 B E F C A 2 E C F E 5 A 2 D C 4 C
 1 A C E 6 3 7 9 A 4 E 3 C A E 3 6 D E 9 1 E 8 0 8 4 C 8 D C 3 3
 
 -----END LUMON INDUSTRIES KEY-----
+```

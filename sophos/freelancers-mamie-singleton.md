@@ -1,5 +1,6 @@
 # freelancers-mamie-singleton
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 0 3 C 8 1 4 4 D 2 3 F C 7 F 6 2 3 1 B F 7 8 5 8 5 2 2 0 7 A 6 B
@@ -35,3 +36,4 @@ B E 1 D 3 0 4 A 8 B 2 3 6 3 F 8 D 6 3 0 1 E C 0 6 F 6 1 2 1 E 0
 A 3 9 2 6 8 B E 8 4 0 6 7 2 1 E 6 8 F 7 1 D D 4 B F 8 D 8 9 1 4
 
 -----END LUMON INDUSTRIES KEY-----
+```
