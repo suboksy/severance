@@ -1,5 +1,6 @@
 # nora-snarfing-harangue
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 2 A 2 2 B F 7 E 8 5 F D 0 A 2 F 4 B 3 6 5 0 2 6 5 3 2 C D 6 F E
@@ -35,3 +36,4 @@ C E D 3 6 7 7 6 D 0 8 B 2 1 9 4 D 4 4 F 6 8 7 A 7 8 5 E 3 2 A 9
 6 2 5 9 5 5 C 6 6 A 2 D D C 6 C 8 C 5 0 2 7 6 8 0 7 B C 0 4 B C
 
 -----END LUMON INDUSTRIES KEY-----
+```

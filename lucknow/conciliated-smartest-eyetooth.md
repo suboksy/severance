@@ -1,5 +1,6 @@
 # conciliated-smartest-eyetooth
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 F F B 6 F A 7 B 9 4 F D 1 C F A 1 9 5 D E 7 6 9 3 5 B 7 2 D F E
@@ -35,3 +36,4 @@ B C 3 C 0 1 B 7 6 8 B 6 2 8 5 B C 5 C B 2 2 1 4 2 2 1 2 8 8 A 4
 5 B D C 5 5 A 6 B 4 B 1 5 6 5 E 9 C 8 B 6 0 3 E 3 7 7 F 5 3 8 5
 
 -----END LUMON INDUSTRIES KEY-----
+```
