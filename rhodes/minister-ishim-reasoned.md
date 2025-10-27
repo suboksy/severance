@@ -1,5 +1,6 @@
 # minister-ishim-reasoned
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 8 E E 0 6 F D 0 1 A B D 0 6 C 7 4 E D 5 E C 1 1 9 E 6 3 2 A 3 1
@@ -35,3 +36,4 @@ A 4 E 3 D 8 C 1 3 1 E 5 4 5 7 A 7 5 0 9 E 4 A 0 A A 5 F A 5 B 0
 A A 6 9 8 D F 7 C 2 3 0 6 B A 6 9 F F F E 6 F 6 2 C 7 C 4 1 A 0
 
 -----END LUMON INDUSTRIES KEY-----
+```

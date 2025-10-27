@@ -1,5 +1,6 @@
 # halon-thaddeus-civil
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 D 1 8 D 0 9 A D 6 B 1 1 8 2 0 3 E 6 A 7 7 A F 8 7 8 5 F 3 9 4 A
@@ -35,3 +36,4 @@ F 4 1 1 A 8 5 B 5 1 0 2 7 7 4 A 3 B B 3 1 E B 5 5 3 C 0 6 0 D D
 C C C 7 5 2 9 0 8 E F D 8 8 2 C F 5 5 C 4 9 7 D 2 C A 7 4 A F 4
 
 -----END LUMON INDUSTRIES KEY-----
+```
