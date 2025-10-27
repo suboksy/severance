@@ -1,5 +1,6 @@
 # bullock-granges-devastating
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 D 4 A A 3 4 0 4 8 0 C 9 3 F 1 9 7 D C 8 4 8 3 C 8 9 D C B 0 6 0
@@ -35,3 +36,4 @@ E 0 0 1 4 6 4 C 5 5 F 8 8 B D 0 5 6 E B C A F C F 6 0 2 3 9 1 6
 0 0 1 4 A 8 F 8 5 F 5 4 3 9 2 D B 6 F 8 6 1 4 9 1 5 C 2 A 9 7 A
 
 -----END LUMON INDUSTRIES KEY-----
+```
