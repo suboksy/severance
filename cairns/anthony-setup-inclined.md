@@ -1,5 +1,6 @@
 # anthony-setup-inclined
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 2 1 9 7 9 A 7 5 5 A E 3 B B F B 2 6 5 2 4 E 8 D 5 F F 1 F 2 A 5
@@ -35,3 +36,4 @@ F 8 6 2 E 8 A 0 6 9 3 F 6 9 9 4 A 1 2 7 D 7 7 9 9 2 A 4 7 8 6 7
 4 B 2 A B 2 7 C F F 9 9 5 9 8 7 5 F D E 1 A 6 D 8 F 8 6 3 6 B B
 
 -----END LUMON INDUSTRIES KEY-----
+```

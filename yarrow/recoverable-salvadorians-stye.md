@@ -1,5 +1,6 @@
 # recoverable-salvadorians-stye
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 C 3 6 3 E 5 A 0 6 3 F B B 7 7 8 8 C 8 9 7 E 6 7 5 D 5 4 9 0 9 D
@@ -35,3 +36,4 @@ A 0 A 4 7 6 0 2 2 0 9 0 5 0 3 4 D 9 5 6 B E 0 E 8 9 7 9 A B 4 3
 9 D E 0 A E 7 3 5 C A F 2 1 F 8 2 8 0 0 0 8 0 0 1 A B 9 7 8 3 5
 
 -----END LUMON INDUSTRIES KEY-----
+```
