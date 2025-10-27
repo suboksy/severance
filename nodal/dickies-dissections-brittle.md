@@ -1,5 +1,6 @@
 # dickies-dissections-brittle
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 D E 6 2 F 2 2 9 7 1 A 9 A 4 7 E 1 9 C 9 A B C 4 C 0 2 D C 3 6 4
@@ -35,3 +36,4 @@ E E B C 3 3 F 8 A 3 5 9 1 F 7 E 5 7 C 5 A 7 9 B F 7 A 3 6 B F 8
 1 A 1 7 3 6 2 7 C 6 1 6 2 9 2 C 4 3 7 0 D 0 D 8 1 7 C B 7 C F 7
 
 -----END LUMON INDUSTRIES KEY-----
+```
