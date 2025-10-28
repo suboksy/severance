@@ -1,5 +1,6 @@
 # sensibility-lucas-seriousness
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 E A 5 D 9 F 2 4 0 C 5 6 D 5 4 5 1 B E D 7 C 7 4 4 1 C 1 F F 2 5
@@ -35,3 +36,4 @@ E E 9 2 2 E 7 F 3 A C 2 4 8 3 B 6 4 7 3 A 5 A 1 A C 3 2 A 6 6 B
 1 D F C 7 C 2 0 C 6 2 D B 8 D 3 5 E 0 6 9 8 1 2 A F E 3 8 6 0 E
 
 -----END LUMON INDUSTRIES KEY-----
+```
