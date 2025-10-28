@@ -1,5 +1,6 @@
 # canon-wwii-galatians
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 C 6 2 8 1 7 8 3 7 8 8 F 7 0 D 4 1 6 3 3 9 4 0 4 6 2 2 D E 9 6 0
@@ -35,3 +36,4 @@ A 2 2 0 3 5 3 E 2 6 F 7 C D C A F 1 0 3 4 1 0 1 E B A 5 E A D B
 8 C 3 6 B 6 0 B 2 1 2 2 5 F 1 E C 6 6 6 3 D B 9 6 5 6 A 4 B 0 A
 
 -----END LUMON INDUSTRIES KEY-----
+```
