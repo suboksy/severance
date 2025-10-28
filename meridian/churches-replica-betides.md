@@ -1,5 +1,6 @@
 # churches-replica-betides
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 0 9 5 B 2 9 5 2 0 F 5 8 C 3 E 8 7 9 9 B 6 0 0 5 8 F E 8 3 A E 3
@@ -35,3 +36,4 @@ A B 1 A C C 9 6 A 7 8 D F 1 F C E 2 C 7 E A 5 9 2 E 0 0 6 9 2 9
 F 8 A F 9 9 6 1 3 4 D E 6 6 4 9 C 1 1 6 0 3 C 8 B E A D A 8 2 7
 
 -----END LUMON INDUSTRIES KEY-----
+```

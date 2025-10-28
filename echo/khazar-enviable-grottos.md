@@ -1,5 +1,6 @@
 # khazar-enviable-grottos
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 9 6 1 F 5 D 6 3 E B 1 7 B 6 2 0 F F 6 2 5 C C 8 D E 4 F F F 1 C
@@ -35,3 +36,4 @@ B 4 4 3 3 9 4 E 0 4 F 9 0 8 1 D 6 1 9 C 2 0 3 E 5 2 5 3 E 0 8 4
 D 6 4 D 0 9 0 6 2 7 5 8 E 6 3 0 E A C 9 A 6 8 2 4 9 3 9 6 8 2 5
 
 -----END LUMON INDUSTRIES KEY-----
+```

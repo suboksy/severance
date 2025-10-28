@@ -1,5 +1,6 @@
 # sudden-economically-spellcheck
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 1 4 C C 7 D 5 9 C 3 0 C 3 7 C 6 8 B B A D 0 E 5 F 9 C E C 3 1 C
@@ -35,3 +36,4 @@ A F B 4 E 4 7 6 6 E 1 6 9 1 7 7 0 D 4 7 7 4 2 2 0 6 4 D 2 6 7 7
 A 2 D C F A 7 1 2 3 E 3 0 0 E 7 1 2 B 3 A 0 2 F D D E 4 5 C 2 E
 
 -----END LUMON INDUSTRIES KEY-----
+```
