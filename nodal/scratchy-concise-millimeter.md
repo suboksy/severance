@@ -1,5 +1,6 @@
 # scratchy-concise-millimeter
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 1 7 E A 1 7 1 8 3 6 8 7 9 F D 4 C 2 C 6 A 2 A F 8 5 D 0 9 1 3 E
@@ -35,3 +36,4 @@ C 5 4 2 1 2 F 9 6 4 8 7 0 9 2 6 B 9 1 3 D F 6 B 2 C D 8 3 5 4 0
 C D E F 3 C 6 4 D F D B 3 1 8 0 C A B 1 2 9 0 4 A B 7 9 2 D 2 D
 
 -----END LUMON INDUSTRIES KEY-----
+```

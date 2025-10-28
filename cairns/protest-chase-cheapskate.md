@@ -1,5 +1,6 @@
 # protest-chase-cheapskate
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 4 9 3 B 0 6 5 A 1 8 8 F B 1 5 9 6 4 1 C D 3 8 C C 3 8 F D B 6 F
@@ -35,3 +36,4 @@ D 3 2 4 0 0 7 D 2 E B 4 5 C D 3 A 6 B E 3 5 6 5 5 1 F 6 0 2 0 E
 1 D 7 5 D F A C 1 B C 7 6 4 E 0 6 1 5 9 7 4 4 9 A C 6 4 D 9 2 9
 
 -----END LUMON INDUSTRIES KEY-----
+```
