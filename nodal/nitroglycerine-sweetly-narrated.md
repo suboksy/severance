@@ -1,5 +1,6 @@
 # nitroglycerine-sweetly-narrated
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 E A 8 F 8 A 9 2 B E 3 A C 9 A E B 3 D F 2 1 B E 1 9 3 2 C A 7 1
@@ -35,3 +36,4 @@ E C F 5 6 7 D 2 2 F 1 1 9 5 A B D A 1 5 8 D B 4 8 9 9 2 3 3 F B
 6 4 6 8 A 5 7 E 8 2 D 3 6 8 F C 2 0 F D 5 C 1 A C B 2 A 0 7 2 0
 
 -----END LUMON INDUSTRIES KEY-----
+```
