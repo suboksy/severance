@@ -1,5 +1,6 @@
 # harmoniousness-standard-congesting
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 6 D 0 D 9 B 9 7 3 D F E B 0 9 B 4 8 0 0 A E 2 C 2 6 7 2 2 5 A 9
@@ -35,3 +36,4 @@ E 5 F B 6 D 5 A 7 E B 2 E 2 2 E 9 A 9 5 6 5 1 9 C 0 7 E 2 E 9 C
 5 6 A 3 2 8 0 4 B D 2 5 4 F 6 0 7 A 1 6 1 E F 1 A 4 6 B D 5 1 E
 
 -----END LUMON INDUSTRIES KEY-----
+```
