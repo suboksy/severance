@@ -1,5 +1,6 @@
 # pittance-conquerors-restaurateurs
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 4 0 5 9 4 0 E 3 D 3 6 F F D A 7 6 D E 4 4 5 6 8 F B 2 C 7 F 3 2
@@ -35,3 +36,4 @@ C 4 D E B 5 1 E 3 3 3 A 5 D A D F 7 E C B 9 2 8 A 9 1 6 D 2 7 A
 7 8 3 A 0 D 6 6 F 6 A E 6 9 D C 7 E B E 9 5 B 8 8 3 C A 2 E 6 D
 
 -----END LUMON INDUSTRIES KEY-----
+```
