@@ -1,5 +1,6 @@
 # journal-subnormal-diabetes
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 F 5 C 7 8 9 7 6 6 5 9 A 8 0 3 D 9 A 0 2 7 4 3 2 5 A 9 F E C 8 A
@@ -35,3 +36,4 @@ C 5 4 7 E 7 5 B 6 2 F 3 3 7 D 6 A B 6 B 8 0 1 0 1 4 F A 5 2 F 7
 6 4 7 3 E A 9 1 B 0 C A 1 4 8 F B 2 4 3 1 0 E D 9 9 5 C 9 4 8 8
 
 -----END LUMON INDUSTRIES KEY-----
+```
