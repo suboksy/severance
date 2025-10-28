@@ -1,5 +1,6 @@
 # straightjacketing-collin-chester
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 7 A F 5 C 0 F C 2 0 A 9 3 0 8 9 1 8 F B 6 F 6 5 B 0 A D 3 3 1 D
@@ -35,3 +36,4 @@ B A 1 F F 5 C C 5 B 1 2 7 2 9 A E E 3 4 C C 3 8 8 8 2 E 7 8 7 B
 E 9 B 6 E F C D 9 F 5 8 2 A 7 F 5 0 8 6 C D B 9 0 5 3 A 5 1 B 0
 
 -----END LUMON INDUSTRIES KEY-----
+```
