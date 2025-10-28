@@ -1,5 +1,6 @@
 # managed-insigne-schoolteacher
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 7 9 9 D 8 7 A 4 B 0 3 2 3 F F 9 7 B 6 9 F 2 F 8 0 C C 4 4 7 C E
@@ -35,3 +36,4 @@ F 2 A 9 3 C F 0 E C 1 0 A F D 5 0 C B 0 A 4 1 5 F D 4 F F 9 C A
 0 2 A D 2 1 3 9 A C 9 0 6 3 A 6 B 9 E 3 E 6 9 B 9 D 9 8 1 6 5 F
 
 -----END LUMON INDUSTRIES KEY-----
+```
