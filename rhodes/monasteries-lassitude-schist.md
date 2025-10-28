@@ -1,5 +1,6 @@
 # monasteries-lassitude-schist
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 7 F 2 1 5 A E E 6 0 4 A 3 4 C A D 1 0 B 3 4 B D 9 4 0 B 4 B 5 E
@@ -35,3 +36,4 @@ A D 1 C 6 E 4 0 6 E 1 1 8 7 2 4 A 3 A D 3 4 5 B 1 F 3 7 6 3 7 B
 B E 4 3 1 C 1 0 B 7 3 1 3 D 9 B 7 A 7 D B D 9 3 6 F 7 E A 3 0 3
 
 -----END LUMON INDUSTRIES KEY-----
+```
