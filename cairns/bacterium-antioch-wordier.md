@@ -1,5 +1,6 @@
 # bacterium-antioch-wordier
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 F 1 6 0 F B B 4 1 9 D C C 8 7 F 3 C 4 8 F F 1 9 4 B 8 9 E D C 6
@@ -35,3 +36,4 @@ D A 1 B 7 B 2 C 2 C A 4 F E 4 C C F D E 7 7 A C 9 4 2 6 5 9 5 C
 A 2 D 1 F A E A 3 B 8 5 C 0 C 8 0 C C 5 D F 0 A F 8 C E B 0 A 7
 
 -----END LUMON INDUSTRIES KEY-----
+```
