@@ -1,5 +1,6 @@
 # covert-enforcers-haberdasher
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 4 4 7 D B B 1 C 5 7 2 2 9 7 6 C 5 0 3 F 4 7 6 0 C F 1 9 8 5 7 D
@@ -35,3 +36,4 @@ C 5 7 6 6 F 4 2 4 4 A C E 5 8 3 6 B 1 2 F C 4 A 2 0 8 7 7 6 9 9
 7 7 8 A 3 A E D 4 F 0 8 5 D D C A 6 6 2 9 7 C 9 B 7 A 6 C 4 1 5
 
 -----END LUMON INDUSTRIES KEY-----
+```
