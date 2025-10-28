@@ -1,5 +1,6 @@
 # rebate-porfirio-synonyms
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 4 5 9 4 2 6 F 8 F F 5 C 2 D A 0 A F E D C 6 D D 0 7 7 4 9 6 0 7
@@ -35,3 +36,4 @@ E B 2 A 2 2 7 1 8 F 1 3 B 0 4 7 7 6 1 C B 3 6 A 1 E 1 C F F 4 A
 F D 5 F 3 1 8 6 8 6 4 3 C C 4 2 3 6 0 6 9 E 3 1 4 8 2 F E 6 F 2
 
 -----END LUMON INDUSTRIES KEY-----
+```
