@@ -1,5 +1,6 @@
 # micra-speaker-toughs
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 C F 4 B F A 6 E 7 2 8 C B F 8 3 E 4 9 F 4 3 8 8 1 9 B A 4 9 5 D
@@ -35,3 +36,4 @@ F 0 2 7 C 3 D E A A 9 A D E 5 A 1 4 7 5 3 D 4 2 F D 1 E 5 C 5 A
 6 4 5 E B 3 8 6 3 7 8 0 9 D 3 F 2 3 E 6 7 6 4 1 1 B 8 2 B A 9 4
 
 -----END LUMON INDUSTRIES KEY-----
+```
