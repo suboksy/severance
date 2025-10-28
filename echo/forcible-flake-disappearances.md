@@ -1,5 +1,6 @@
 # forcible-flake-disappearances
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 0 9 9 A F D C 5 8 7 D 3 A 0 0 C 6 1 5 E 2 1 2 2 5 6 4 9 1 D A D
@@ -35,3 +36,4 @@ C 4 E 7 8 A 0 7 7 5 A 2 D D 0 2 2 F 7 5 3 4 5 7 9 1 1 C 1 B F 4
 B 3 B D 3 A E A 8 A 4 2 3 6 D 0 C B B D 1 F 3 7 7 C 8 3 C 0 5 9
 
 -----END LUMON INDUSTRIES KEY-----
+```
