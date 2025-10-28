@@ -1,5 +1,6 @@
 # innocuous-imperative-madhouses
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 C 1 F B C 3 4 4 6 2 3 0 A 4 A F 1 A C D E C D 2 6 D 4 9 C 8 D 2
@@ -35,3 +36,4 @@ F D 9 5 1 6 8 1 1 C B A B 3 F 9 1 E C 5 6 1 9 4 0 4 8 0 6 C 3 9
 E 6 9 A A A 9 1 8 5 8 D A E 6 E C 4 D 2 E 1 3 4 A 9 0 0 8 3 6 C
 
 -----END LUMON INDUSTRIES KEY-----
+```
