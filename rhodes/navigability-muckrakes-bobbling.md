@@ -1,5 +1,6 @@
 # navigability-muckrakes-bobbling
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 9 0 2 1 5 9 6 0 5 1 F 8 F B 2 B 2 4 8 5 D 0 8 4 F 8 C E F 8 6 D
@@ -35,3 +36,4 @@ A 2 6 C C 2 8 2 D 2 F F D A 6 8 8 F 1 6 F C 7 E 6 B 7 F D A E 1
 3 E F 0 C C 7 B 1 B 7 3 0 4 B 8 7 6 2 0 F 9 7 3 E 2 D E 5 0 0 9
 
 -----END LUMON INDUSTRIES KEY-----
+```

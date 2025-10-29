@@ -1,5 +1,6 @@
 # vile-obtusely-googles
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 1 2 B 0 6 A 1 F 6 8 2 4 3 F E E C E 2 7 2 F 0 D 3 4 B 3 5 7 C 5
@@ -35,3 +36,4 @@ E C 5 1 1 5 7 9 F 6 0 5 A 8 D B 1 A 2 B 4 E F 0 9 4 8 7 1 1 2 2
 6 5 6 F 0 F 7 8 2 6 1 0 6 E 1 6 D 5 B B 9 F 7 7 0 8 C D 1 E C C
 
 -----END LUMON INDUSTRIES KEY-----
+```
