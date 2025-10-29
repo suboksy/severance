@@ -1,5 +1,6 @@
 # monstrances-boodles-strangles
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 0 1 B C 0 7 8 9 D 4 1 D 9 A B 1 6 3 6 A B C 0 E 5 A 8 5 D 0 9 9
@@ -35,3 +36,4 @@ D 6 B 9 1 4 C 2 9 E 8 A 4 F 3 8 A C 0 B B C C 6 1 A 4 6 E 3 4 2
 0 7 0 2 F D E 7 2 0 B 6 8 D 3 5 1 4 1 2 D 5 B 6 F B 8 7 3 9 7 6
 
 -----END LUMON INDUSTRIES KEY-----
+```
