@@ -1,5 +1,6 @@
 # rediscover-aground-godmother
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 6 3 5 C F 8 4 3 3 1 1 7 C 3 D 1 B 3 6 7 F F 3 0 3 1 6 0 4 4 A 7
@@ -35,3 +36,4 @@ D 1 E C C 4 B C 3 B C A 0 0 9 0 3 B D 2 8 8 C 0 B 4 4 7 F 0 4 E
 6 F 9 8 5 D 1 2 7 5 0 E 2 1 0 A 8 5 1 A A F 6 D E B 1 C 9 8 E C
 
 -----END LUMON INDUSTRIES KEY-----
+```

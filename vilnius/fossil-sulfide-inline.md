@@ -1,5 +1,6 @@
 # fossil-sulfide-inline
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 5 E B 8 3 B 6 E C 4 4 1 8 D 4 5 3 3 A 2 3 A A B F D 5 2 1 9 3 B
@@ -35,3 +36,4 @@ D 2 2 D 6 7 D F 1 F B C B 0 1 1 B 0 F B E 3 6 1 E 1 E 1 F 7 3 C
 E 4 4 3 B 6 7 1 5 9 3 D 4 B E 2 4 5 D 5 0 9 C 3 8 9 5 5 4 2 6 C
 
 -----END LUMON INDUSTRIES KEY-----
+```
