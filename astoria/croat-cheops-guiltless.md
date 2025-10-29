@@ -1,5 +1,6 @@
 # croat-cheops-guiltless
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 5 1 D 7 F B 8 9 8 7 7 D 6 B 2 3 A 8 8 1 E A 4 1 C 2 8 4 D 0 D 9
@@ -35,3 +36,4 @@ D 8 9 E 6 E 6 0 1 0 0 5 2 0 D 2 A 9 4 4 B C 3 D A D 2 E 7 2 C 5
 A 0 4 2 C 5 E 8 7 6 5 0 2 5 F 4 8 4 F B 1 3 F 0 5 B 6 5 8 8 8 A
 
 -----END LUMON INDUSTRIES KEY-----
+```
