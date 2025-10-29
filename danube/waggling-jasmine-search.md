@@ -1,5 +1,6 @@
 # waggling-jasmine-search
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 7 4 7 7 1 0 6 C 3 7 2 3 E 0 1 5 3 6 F E F 8 B D 5 C 8 5 8 C C F
@@ -35,3 +36,4 @@ D C F 4 C A 1 1 3 7 5 B F C 6 A C 0 E D 6 C E 2 A 0 9 9 0 2 F 2
 8 7 2 B 7 4 C 5 C 8 9 6 6 6 1 F 5 C C 8 E 8 8 2 B 3 B A D E C F
 
 -----END LUMON INDUSTRIES KEY-----
+```
