@@ -1,5 +1,6 @@
 # warring-purity-boston
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 8 0 6 E 0 7 9 F 8 A 2 A 1 9 9 E 8 E 6 F 4 6 7 3 8 E 6 E 2 9 7 4
@@ -35,3 +36,4 @@ C 5 B E 5 A D 0 5 A F 0 1 E 2 8 9 6 F 9 D 2 E B 9 C C E 7 2 F 7
 1 2 9 5 7 1 F 1 8 2 B D 1 F 0 D B D 8 4 9 A 7 B 8 3 6 6 8 5 2 D
 
 -----END LUMON INDUSTRIES KEY-----
+```
