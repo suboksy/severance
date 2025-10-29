@@ -1,5 +1,6 @@
 # impulse-obscenest-bush
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 3 0 0 7 3 4 1 E 7 1 E 9 B A 2 4 A A F 5 0 2 C 5 9 A 5 4 0 C 7 4
@@ -35,3 +36,4 @@ F 8 F 3 8 9 C C 7 1 6 9 D 9 6 7 2 F E 0 4 E A C E C 5 7 2 5 F E
 D 3 9 8 4 8 B 4 A 0 8 2 7 C 9 0 6 4 7 B B 5 0 5 5 D A A 9 4 F 8
 
 -----END LUMON INDUSTRIES KEY-----
+```

@@ -1,5 +1,6 @@
 # smoothed-ken-kawabata
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 7 B 7 D C C 0 6 4 1 7 2 8 2 6 E 6 B C C 3 3 B C 8 9 F B F E B E
@@ -35,3 +36,4 @@ A D B 2 4 6 E C 0 B 5 6 D 4 6 7 7 7 4 D 7 2 8 C F 3 9 C 1 4 2 5
 F 2 F 2 E E 5 A 6 C 1 F 0 4 A 5 F 5 4 B 9 4 3 4 A B 9 A 9 A E 3
 
 -----END LUMON INDUSTRIES KEY-----
+```
