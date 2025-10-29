@@ -1,5 +1,6 @@
 # culminates-footnote-starvation
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 6 F 3 A 7 2 2 D 6 0 9 E 5 6 3 3 6 7 3 9 D 0 D 3 0 5 1 D F A 1 3
@@ -35,3 +36,4 @@ C F F E 6 C 8 0 F 6 7 7 D 9 7 B 8 8 2 D E F 9 C 9 B 8 9 9 2 D 4
 B 5 A 6 8 1 B 1 2 8 E 9 6 7 D 6 B 2 9 A 5 3 0 6 7 A 5 B 4 7 B D
 
 -----END LUMON INDUSTRIES KEY-----
+```
