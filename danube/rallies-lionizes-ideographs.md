@@ -1,5 +1,6 @@
 # rallies-lionizes-ideographs
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 6 B 1 D 8 E 9 1 9 5 5 B 4 0 1 7 0 B B 2 E 1 5 6 0 A 4 5 1 4 2 1
@@ -35,3 +36,4 @@ A 7 8 0 8 0 9 9 6 5 2 B 8 3 0 1 4 3 9 7 A 9 7 2 8 7 B 2 3 1 6 7
 5 A E 0 2 9 0 3 A D 6 A 4 5 8 8 2 A C C 4 2 E B 3 9 F F 1 1 0 F
 
 -----END LUMON INDUSTRIES KEY-----
+```
