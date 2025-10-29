@@ -1,5 +1,6 @@
 # chastest-ducting-megapixels
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 D 6 D 8 2 8 A 5 4 5 1 2 A 9 C 2 F A A 7 4 9 8 3 C 7 D D B 4 0 C
@@ -35,3 +36,4 @@ E 0 C 6 9 2 3 7 6 F 2 8 6 0 B 2 A 5 4 E 5 5 7 4 2 D 1 7 A 0 9 F
 C C 5 F 8 D 1 D 8 F 7 D C 7 4 7 2 4 7 8 2 A C 9 6 C 5 9 0 7 E 4
 
 -----END LUMON INDUSTRIES KEY-----
+```
