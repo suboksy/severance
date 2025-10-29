@@ -1,5 +1,6 @@
 # dumpster-bestridden-ambiguities
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 3 D C 0 F 4 1 7 7 C 6 5 5 3 5 A B 1 C 5 8 5 D 1 5 E B 3 5 6 A 2
@@ -35,3 +36,4 @@ D D B 5 0 C C D 1 A F B B A C A 6 D A 5 C E E B 2 1 3 A 9 0 8 7
 B 6 7 7 E 1 A 0 8 D 4 6 B E 4 6 1 C 0 4 F 6 8 3 8 8 E 8 2 D 7 7
 
 -----END LUMON INDUSTRIES KEY-----
+```

@@ -1,5 +1,6 @@
 # verb-mimeographing-weakling
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 F E 7 D 2 E F B 6 2 E 1 D E E 9 A 6 D D F 8 4 5 2 A E 3 1 3 0 F
@@ -35,3 +36,4 @@ C 2 4 9 2 E D E 9 D D C 5 8 F C 4 3 A 6 C B F 5 D 4 B 2 E 3 C 3
 2 B 4 3 D B 4 E 6 B C 8 D 3 E E 7 F B B 6 1 2 6 A B F 5 E 9 1 F
 
 -----END LUMON INDUSTRIES KEY-----
+```
