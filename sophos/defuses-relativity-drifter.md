@@ -1,5 +1,6 @@
 # defuses-relativity-drifter
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 1 A B 4 A 3 B 2 9 8 0 3 4 3 F 4 7 2 D F 1 3 0 9 D E 6 C 7 8 E E
@@ -35,3 +36,4 @@ C 9 F C 3 2 A 3 C 9 A C E 8 F 1 9 6 D E 2 D A B E 2 A F A 1 D 5
 7 E D 0 4 3 B 7 9 E A 1 6 3 6 E A 3 9 7 E B 7 E 6 1 B 2 3 D 8 5
 
 -----END LUMON INDUSTRIES KEY-----
+```
