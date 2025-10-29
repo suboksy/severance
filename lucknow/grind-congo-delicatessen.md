@@ -1,5 +1,6 @@
 # grind-congo-delicatessen
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 0 0 B C 6 D C 5 1 8 5 1 9 F A 2 1 A 9 0 3 F 5 3 E 5 1 1 2 3 5 1
@@ -35,3 +36,4 @@ B F 6 A 4 B A C D 9 B 9 7 2 6 3 6 7 B 0 1 8 E 7 C C 6 2 9 2 0 3
 E C 2 0 1 5 8 E 7 3 A 6 7 A 9 E 2 9 3 8 8 5 E 2 2 8 E 9 2 C C 9
 
 -----END LUMON INDUSTRIES KEY-----
+```
