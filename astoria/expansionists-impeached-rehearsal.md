@@ -1,5 +1,6 @@
 # expansionists-impeached-rehearsal
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 8 F E 5 2 3 B B A C 7 B 8 4 2 4 E A C A 2 A 5 A 9 6 4 4 7 F 8 F
@@ -35,3 +36,4 @@ C 9 5 4 6 4 A A A 3 C 9 9 A 1 1 0 8 D 1 B 4 9 1 1 6 E F A 6 5 F
 7 6 B B D 4 F 3 C B 9 3 1 D C D A B D 2 A 3 9 2 0 4 4 B 2 4 7 1
 
 -----END LUMON INDUSTRIES KEY-----
+```
