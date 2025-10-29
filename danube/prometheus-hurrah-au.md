@@ -1,5 +1,6 @@
 # prometheus-hurrah-au
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 2 1 A 0 0 2 0 1 E 5 4 D 9 F 8 3 B 7 D 0 B 5 8 6 D C 2 A 4 0 4 5
@@ -35,3 +36,4 @@ A E 0 1 4 4 D D 9 0 0 8 B 9 E 7 5 8 1 3 F 8 4 6 0 5 D B A 6 D 8
 1 2 7 E 4 B 1 4 1 C F 5 5 A 4 9 5 6 D B 6 9 9 C 4 1 9 9 D 0 6 3
 
 -----END LUMON INDUSTRIES KEY-----
+```
