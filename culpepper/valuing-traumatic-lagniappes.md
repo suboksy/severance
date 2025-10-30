@@ -1,5 +1,6 @@
 # valuing-traumatic-lagniappes
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 6 0 3 6 E 3 2 D 2 B 0 C B 5 2 2 E C 1 9 D D F D 2 F 2 8 F 5 C 0
@@ -35,3 +36,4 @@ B 8 8 E 5 4 E C 0 6 9 D 6 B B B 1 3 E A 8 5 4 7 4 C 2 D D 7 A 4
 8 9 6 5 6 3 4 8 A 3 8 D 6 D B 7 9 5 4 0 0 2 A 4 5 7 A 7 4 5 E C
 
 -----END LUMON INDUSTRIES KEY-----
+```

@@ -1,5 +1,6 @@
 # amharic-seizes-vicing
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 8 0 5 E D B E 0 8 0 4 A 4 1 7 0 7 3 C A D 0 9 1 8 C 3 0 E 7 B 4
@@ -35,3 +36,4 @@ D 0 4 6 7 2 3 7 5 5 9 4 7 8 5 2 A D B E 7 3 7 9 4 7 0 5 B 7 0 C
 5 6 A 7 3 A 2 2 5 9 0 2 3 6 4 4 9 0 D 0 1 B 9 C 0 2 6 3 3 1 7 7
 
 -----END LUMON INDUSTRIES KEY-----
+```
