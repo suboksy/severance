@@ -1,5 +1,6 @@
 # activism-mouthpieces-inseparability
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 3 F F 3 E B 4 5 F 8 1 0 6 0 D D 2 0 1 7 9 C 7 7 5 F 9 9 C B 3 9
@@ -35,3 +36,4 @@ D 1 5 6 8 B 2 7 5 F B 1 A 1 2 B 0 A B B D B B E 5 0 8 A 3 1 2 8
 4 7 5 6 8 A B A 9 C 3 4 F 9 1 A A 8 1 6 A F 8 6 A 4 3 2 8 3 8 5
 
 -----END LUMON INDUSTRIES KEY-----
+```
