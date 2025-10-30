@@ -1,5 +1,6 @@
 # oozed-sprats-ecologist
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 9 F 0 1 F 8 C F 3 1 4 A 2 1 7 B 3 5 1 8 A F 9 F 8 A F 8 D 3 B 4
@@ -35,3 +36,4 @@ D 2 3 1 6 1 9 3 D 7 E 7 8 D 4 0 9 C B D 9 3 7 2 1 5 C 6 5 A 8 9
 8 8 E 5 1 D 0 A E 1 D 5 5 C 8 D 3 3 1 4 B 7 0 F 9 8 D 5 5 2 9 5
 
 -----END LUMON INDUSTRIES KEY-----
+```
