@@ -1,5 +1,6 @@
 # afterthought-merak-salvatore
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 5 7 F 5 3 D 6 1 A B D 3 A 0 4 C 1 C 9 3 E 1 4 4 0 C 4 1 C B 0 9
@@ -35,3 +36,4 @@ A E 4 6 9 4 6 0 A 3 1 6 8 D 8 B B 8 B 6 D 0 C B E 5 C 5 8 7 0 C
 2 5 3 C 1 F 8 C B E 2 E B 6 C 1 E A E A 7 E D B A A 6 5 2 8 D 4
 
 -----END LUMON INDUSTRIES KEY-----
+```
