@@ -1,5 +1,6 @@
 # conjugate-sweaters-syndrome
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 8 F A 2 F 1 E A F D E 9 F C 1 B E F 7 B A B 9 5 B A B 6 0 E 5 C
@@ -35,3 +36,4 @@ C B 1 B 5 4 A E F 9 3 2 3 7 1 6 C 7 2 8 8 2 B 2 A 8 0 8 8 4 1 D
 C 0 E D B 7 2 7 D 8 1 3 7 E 0 B C D 6 2 6 4 4 8 C 0 F F B 1 A D
 
 -----END LUMON INDUSTRIES KEY-----
+```
