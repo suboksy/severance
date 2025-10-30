@@ -1,5 +1,6 @@
 # clasping-middles-declination
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 8 1 F D 8 0 4 D D D F A 7 9 0 D 7 5 7 A 5 8 8 2 9 C D 8 0 B 3 2
@@ -35,3 +36,4 @@ B F C 5 E 4 7 0 9 7 C 7 F 6 D 5 8 E F 0 1 D 0 9 7 A 9 B D 7 B 9
 9 3 6 2 8 F 5 3 F 5 3 8 0 7 A 9 8 1 7 3 E B D A 3 3 C 8 2 9 3 D
 
 -----END LUMON INDUSTRIES KEY-----
+```
