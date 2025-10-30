@@ -1,5 +1,6 @@
 # sum-schooling-apotheosis
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 5 F 3 7 3 B 4 9 3 7 A C 4 C B 3 6 7 6 3 A 4 2 1 E A F 0 2 0 1 B
@@ -35,3 +36,4 @@ B F 0 3 F 3 E C 8 9 8 1 B 8 5 8 2 6 9 C 2 F F 7 5 D D C 9 D 9 8
 F F 6 3 E A 9 7 0 5 9 8 A 1 8 0 1 5 8 B 8 D D 0 5 1 8 2 1 2 B 9
 
 -----END LUMON INDUSTRIES KEY-----
+```
