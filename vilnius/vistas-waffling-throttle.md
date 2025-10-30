@@ -1,5 +1,6 @@
 # vistas-waffling-throttle
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 2 7 1 A 1 5 9 D D 4 5 9 F 1 E 9 0 C A 8 B 9 C 6 0 3 E D 0 4 6 5
@@ -35,3 +36,4 @@ B F B 5 4 4 5 0 A 4 6 7 B F 5 5 5 D 5 9 3 2 8 0 D 8 F A C 8 1 5
 7 8 D 1 D 1 8 3 6 B 9 5 9 8 9 6 3 F 0 A 2 2 4 6 C 5 6 A 9 C 5 5
 
 -----END LUMON INDUSTRIES KEY-----
+```

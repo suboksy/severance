@@ -1,5 +1,6 @@
 # chimaeras-satisfactory-feels
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 F A 9 F 1 C D 7 1 9 F 8 2 9 0 3 0 8 E A 6 C 3 F 1 6 9 E 8 9 B C
@@ -35,3 +36,4 @@ A 7 0 2 8 B 5 7 0 A 2 9 9 6 1 D 8 D 2 3 D C B 9 6 8 F 3 4 3 A 5
 0 4 D A 9 8 D E 7 3 9 B 5 2 9 A 0 B 2 A E F 7 9 0 5 6 6 6 2 E E
 
 -----END LUMON INDUSTRIES KEY-----
+```
