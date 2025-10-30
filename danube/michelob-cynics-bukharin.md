@@ -1,5 +1,6 @@
 # michelob-cynics-bukharin
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 D C 9 3 3 6 A C 2 F E 6 9 F D 9 6 B 7 C 2 1 6 3 5 5 0 D B 1 A C
@@ -35,3 +36,4 @@ E 8 6 A F C 0 6 3 4 2 A 6 7 E B 1 2 5 E 0 C 8 F F 0 B 0 0 3 F 3
 1 7 6 B A 7 C A 3 5 1 B 7 7 F 9 E 7 E 1 9 5 E F A 7 2 A E 5 C 1
 
 -----END LUMON INDUSTRIES KEY-----
+```
