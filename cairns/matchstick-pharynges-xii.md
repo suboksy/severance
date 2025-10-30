@@ -1,5 +1,6 @@
 # matchstick-pharynges-xii
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 3 E E C B 0 1 5 C 4 1 0 7 1 E 9 3 F D 8 E 7 B F B 0 4 8 0 4 6 2
@@ -35,3 +36,4 @@ F F E F 2 3 1 6 7 8 4 6 8 F 7 E C 3 9 C 1 4 1 6 B 3 F D 3 E 6 E
 B 5 D C 5 E 2 C 1 0 9 D 4 1 C 8 3 D 3 1 7 B A 8 F 2 B 9 5 4 1 4
 
 -----END LUMON INDUSTRIES KEY-----
+```
