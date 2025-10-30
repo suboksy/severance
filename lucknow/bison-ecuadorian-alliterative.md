@@ -1,5 +1,6 @@
 # bison-ecuadorian-alliterative
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 6 C 1 9 5 9 A 0 A B D D 2 7 A 2 C C 9 A B 6 A E 9 4 7 6 9 8 2 9
@@ -35,3 +36,4 @@ F 0 B 6 B 5 0 E D 1 E 4 F 7 0 B 2 D 9 F 0 6 F A 7 3 0 2 7 6 3 C
 A E 1 7 1 E D A 5 E E 0 9 0 7 9 D A 8 F 0 4 8 9 3 5 D B 1 4 9 5
 
 -----END LUMON INDUSTRIES KEY-----
+```
