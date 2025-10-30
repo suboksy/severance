@@ -1,5 +1,6 @@
 # delinquents-rodrigo-temptresses
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 B 8 E E 6 9 6 2 5 7 B 1 F 0 5 0 0 7 4 8 6 C 5 D 6 C 3 1 F 1 0 5
@@ -35,3 +36,4 @@ F 6 E 8 D F 8 9 0 8 4 A E D C C D 5 5 B 2 9 D 7 0 7 5 C C 0 2 D
 D A E 4 0 D 2 F C 3 7 1 2 A B 0 C A 6 B 7 F 3 1 D D F 7 7 5 5 2
 
 -----END LUMON INDUSTRIES KEY-----
+```
