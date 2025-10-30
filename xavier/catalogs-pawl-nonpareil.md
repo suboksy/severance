@@ -1,5 +1,6 @@
 # catalogs-pawl-nonpareil
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 E F A 1 8 F 0 9 5 4 9 5 7 9 7 8 C 0 4 D E 5 D 2 1 9 5 E 8 F D 3
@@ -35,3 +36,4 @@ F D 4 7 1 A 8 5 B C 4 E 3 C A 2 8 5 1 B B 2 7 F B 1 B A 5 5 0 D
 D 4 7 4 6 0 E A D D 3 3 F 5 D F F 3 2 2 A D 4 5 2 6 E 9 7 D B 6
 
 -----END LUMON INDUSTRIES KEY-----
+```

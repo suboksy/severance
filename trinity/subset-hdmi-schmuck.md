@@ -1,5 +1,6 @@
 # subset-hdmi-schmuck
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 7 B 5 0 D D 7 5 A 8 5 2 8 F 4 8 8 8 2 6 E 5 0 5 4 E 6 D 8 9 4 5
@@ -35,3 +36,4 @@ B 4 A 7 5 4 B 6 5 C 3 E D 5 8 3 A 8 E A 3 5 0 1 9 4 5 8 3 D 9 7
 E 0 3 6 0 2 2 F 4 A 4 1 4 7 8 2 E C A 1 7 6 A E F B D 0 C 6 D D
 
 -----END LUMON INDUSTRIES KEY-----
+```
