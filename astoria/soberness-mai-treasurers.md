@@ -1,5 +1,6 @@
 # soberness-mai-treasurers
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 5 2 4 1 F 0 1 6 3 5 C E 7 5 4 9 0 E C F 0 F E E 8 B C 7 A 6 A 9
@@ -35,3 +36,4 @@ C 5 9 3 D 0 2 8 B 5 3 D 9 0 6 3 A E B D 5 D 7 3 7 0 1 D 7 5 6 1
 4 F 3 4 4 A 1 E 9 2 A 9 2 3 9 5 6 9 0 4 3 E 3 A 4 7 0 3 D B 7 B
 
 -----END LUMON INDUSTRIES KEY-----
+```
