@@ -1,5 +1,6 @@
 # rompers-slab-combustion
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 6 2 D 1 3 C B E 0 5 5 C 6 D 2 E 4 0 6 B B 5 4 8 2 0 3 2 9 E 0 C
@@ -35,3 +36,4 @@
 6 1 9 1 C 2 7 2 1 B F D 2 1 7 2 1 0 F 8 B 4 C B 8 2 A E 4 0 0 C
 
 -----END LUMON INDUSTRIES KEY-----
+```

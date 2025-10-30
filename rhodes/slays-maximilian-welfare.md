@@ -1,5 +1,6 @@
 # slays-maximilian-welfare
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 A 3 7 E C 9 9 1 9 B B D C D 7 8 B A 4 1 0 C 0 9 D 5 3 C A 8 7 A
@@ -35,3 +36,4 @@ E 0 6 A C 9 9 0 2 2 7 F B 1 D A 2 C C 1 3 4 7 5 4 4 2 1 3 B 7 8
 9 0 9 C B 5 A C 3 6 F 5 8 1 1 D 5 5 B C F 0 B 1 D E 4 7 C B A 4
 
 -----END LUMON INDUSTRIES KEY-----
+```
