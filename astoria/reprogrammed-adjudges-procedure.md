@@ -1,5 +1,6 @@
 # reprogrammed-adjudges-procedure
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 7 C 9 E 1 6 A F D 6 1 5 A 6 3 E B 8 4 6 F 9 A 7 8 0 F 1 3 8 9 B
@@ -35,3 +36,4 @@ E 7 9 6 6 6 4 5 D B 4 5 0 5 F F 9 6 2 1 F 7 6 B 1 2 0 9 B B A A
 F 9 8 C C 0 B 8 C 4 D 3 7 5 5 A 2 F 8 3 0 F 8 9 F A 2 7 C 5 A B
 
 -----END LUMON INDUSTRIES KEY-----
+```

@@ -1,5 +1,6 @@
 # goody-majorca-vouchsafing
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 B C 9 D D 4 0 F 4 E 7 2 0 E 3 6 E 6 B 0 A 6 A C 8 C 0 D 2 F 5 3
@@ -35,3 +36,4 @@ E 1 4 6 5 D 4 5 1 5 1 E 0 0 C C B C 2 F 5 0 8 2 4 8 B 7 2 D 5 2
 2 C 2 6 F 4 6 1 D A E 6 0 7 8 E C 5 B 3 A 3 B 3 D E E 6 E D A 5
 
 -----END LUMON INDUSTRIES KEY-----
+```
