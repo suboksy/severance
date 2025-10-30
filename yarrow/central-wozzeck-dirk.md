@@ -1,5 +1,6 @@
 # central-wozzeck-dirk
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 D B D E 6 D B 8 7 F D 7 0 B 2 2 E 7 8 9 F 1 D C 7 9 9 D 3 A 8 9
@@ -35,3 +36,4 @@ B B C A E 0 7 5 4 E 5 4 5 A F 0 C 3 E 6 4 E F F F 6 3 5 F 7 B A
 2 E F D 4 3 2 D F 6 E 0 3 7 B 4 B C 0 D 4 B 3 F 2 3 8 C 2 A 9 A
 
 -----END LUMON INDUSTRIES KEY-----
+```
