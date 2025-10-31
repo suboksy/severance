@@ -1,5 +1,6 @@
 # contentiously-curator-regents
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 B F 7 9 0 1 F C B 1 2 5 1 B 4 A B F B 5 5 A 1 4 F 0 3 1 5 1 9 8
@@ -35,3 +36,4 @@ B 9 F 6 8 D 5 4 F 1 B 9 3 0 F F 9 6 C 0 1 D 7 2 E 3 9 4 C E 5 4
 2 2 6 B E 6 D 9 7 B 2 E 2 1 9 0 9 3 B C E E 0 F 8 5 2 F 1 B 6 1
 
 -----END LUMON INDUSTRIES KEY-----
+```
