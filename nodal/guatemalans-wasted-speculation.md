@@ -1,5 +1,6 @@
 # guatemalans-wasted-speculation
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 0 0 0 2 8 C 1 9 0 3 D 5 4 5 D C 3 0 B 7 7 7 F B 9 F B 0 A 5 8 8
@@ -35,3 +36,4 @@ E F 0 4 B E 7 3 7 4 1 2 2 0 B 9 A C D 2 2 7 B A C F D 8 5 2 8 5
 A B 4 E 1 5 B F 6 6 2 6 6 C 9 6 5 0 B E 5 9 B 7 0 A 6 6 D 4 3 9
 
 -----END LUMON INDUSTRIES KEY-----
+```

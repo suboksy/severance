@@ -1,5 +1,6 @@
 # sanitizes-housing-wassail
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 2 7 D F 1 B 6 8 F B B 9 5 D C E C 8 E 5 D 8 7 D F 0 7 3 0 B 5 4
@@ -35,3 +36,4 @@ F 6 E E 8 4 1 3 3 B 4 E 8 1 4 7 2 F A 9 B 8 9 3 1 3 9 2 5 1 4 0
 E 1 C A 6 F 4 E 0 3 3 5 1 9 D 2 9 7 5 C 3 3 E B A D 2 A D 5 0 B
 
 -----END LUMON INDUSTRIES KEY-----
+```
