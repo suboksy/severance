@@ -1,5 +1,6 @@
 # deconstruction-windiest-jingling
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 5 A F A 3 A 4 A 3 C 8 1 4 9 2 F 1 0 D 0 6 0 5 C 9 5 F 1 8 4 6 8
@@ -35,3 +36,4 @@ A 1 3 9 9 6 5 A 0 1 A A 2 7 F 5 E 6 4 8 C 9 B 6 F A C 5 0 3 9 7
 C B D 7 E E B 5 A B 1 C A 8 0 A A 6 8 4 3 6 A 8 6 7 8 3 4 B A 1
 
 -----END LUMON INDUSTRIES KEY-----
+```
