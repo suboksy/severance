@@ -1,5 +1,6 @@
 # trusty-chloroformed-profligacy
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 3 2 C 8 3 A 7 4 0 0 6 E F D 0 3 8 D 6 2 D 2 A 4 F 0 6 D B 9 A B
@@ -35,3 +36,4 @@ D 7 0 3 F 0 7 F 3 5 8 4 9 D D 2 8 C D E 9 6 E 4 3 D F 0 3 3 C D
 E A F A C 3 8 4 F 1 5 3 9 B F 4 0 6 9 7 D 5 5 D F 9 9 E 1 F 0 B
 
 -----END LUMON INDUSTRIES KEY-----
+```

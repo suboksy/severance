@@ -1,5 +1,6 @@
 # rigged-summer-butts
 
+```
 -----BEGIN LUMON INDUSTRIES KEY-----
 
 8 A 3 F A 3 C 3 F D 3 A 0 E 2 6 4 D C 0 0 7 2 B C 2 5 A 9 B 6 6
@@ -35,3 +36,4 @@ A 4 5 4 2 A 4 8 7 C 6 D E F 1 8 9 E F C F F 4 A F 3 4 8 D C C E
 7 6 F 1 1 4 3 8 9 B B 3 D 5 2 7 6 4 3 5 B 4 C 4 B 5 D 6 6 B 4 B
 
 -----END LUMON INDUSTRIES KEY-----
+```
